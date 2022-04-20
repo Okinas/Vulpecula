@@ -1,0 +1,243 @@
+﻿#CREATIVE TABS
+
+itemGroup.nations_glory_blocs_tab=NationsGlory blocks
+itemGroup.nations_glory_items_tab=NationsGlory items
+itemGroup.nations_glory_1.8_tab=1.8 blocks & items
+itemGroup.nations_glory_chinese_tab=Easter 2015 blocks & items
+itemGroup.nations_glory_mini-games_tab=NationsGlory mini-games
+
+#ENTITY
+
+entity.rabbit.name=Rabbit
+
+#BLOCKS
+
+tile.slate.name=Slate
+
+tile.cobblestone_road.name=Cobblestone Road
+
+tile.lamp.name=Lamp
+
+tile.steel.name=Steel Block
+
+tile.sea_lantern.name=Sea Lantern
+
+tile.packed_ice.name=Packed Ice
+
+tile.iron_trap_door.name=Iron Trapdoor
+
+tile.prismarine.name=Prismarine
+tile.prismarine_rough.name=Prismarine Bricks
+tile.dark_prismarine.name=Dark Prismarine
+
+tile.diorite.name=Diorite
+tile.andesite.name=Andesite
+tile.granite.name=Granite
+
+tile.polished_diorite.name=Polished Diorite
+tile.polished_andesite.name=Polished Andesite
+tile.polished_granite.name=Polished Granite
+
+tile.redsand.name=Red Sand
+tile.redsandstone.name=Red Sandstone
+tile.redsandstone_carved.name=Chiseled Red Sandstone
+tile.redsandstone_smooth.name=Smooth Red Sandstone
+tile.redsandstone_top.name=Cracked Red Sandstone
+
+tile.podzol.name=Podzol
+tile.podzol_full_block.name=Podzol Block
+
+tile.slime_block.name=Slime Block
+
+tile.allium.name=Allium
+tile.azure_bluet.name=Azure Bluet
+tile.blue_orchid.name=Blue Orchid
+tile.orange_tulip.name=Orange Tulip
+tile.oxeye_daisy.name=Oxeye Daisy
+tile.pink_tulip.name=Pink Tulip
+tile.poppy.name=Poppy
+tile.red_tulip.name=Red Tulip
+tile.white_tulip.name=White Tulip
+
+tile.invisible_block.name=Invisible Block
+tile.invisible_light_block.name=Bright Invisible Block
+tile.invisible_light_block_traversable.name=Crossable Bright Invisible Block
+
+tile.iron_fence.name=Iron Fence
+tile.obsidian_fence.name=Obsidian Fence
+tile.spruce_fence.name=Spruce Fence
+tile.birch_fence.name=Birch Fence
+tile.dark_oak_fence.name=Dark Oak Fence
+tile.jungle_fence.name=Jungle Fence
+tile.acacia_fence.name=Acacia Fence
+
+tile.iron_fence_gate.name=Iron Fence Gate
+tile.obsidian_fence_gate.name=Obsidian Fence Gate
+tile.spruce_fence_gate.name=Spruce Fence Gate
+tile.birch_fence_gate.name=Birch Fence Gate
+tile.dark_oak_fence_gate.name=Dark Oak Fence Gate
+tile.jungle_fence_gate.name=Jungle Fence Gate
+tile.acacia_fence_gate.name=Acacia Fence Gate
+
+tile.slab_iron.name=Iron Slab
+tile.slab_obsidian.name=Obsidian Slab
+tile.slab_redsand.name=Red Sand Slab
+tile.slab_dark_oak.name=Dark Oak Slab
+tile.slab_slate.name=Slate Slab
+tile.slab_acacia.name=Acacia Slab
+tile.slab_new_brick.name=Brick Slab
+
+tile.iron_stairs.name=Iron Stairs
+tile.obsidian_stairs.name=Obsidian Stairs
+tile.slate_stairs.name=Slate Stairs
+tile.red_stairs.name=Red Sandstone Stairs
+tile.dark_oak_stairs.name=Dark Oak Stairs
+tile.acacia_stairs.name=Acacia Stairs
+tile.new_brick_stairs.name=Brick Stairs
+tile.new_brick_mossy_stairs.name=Mossy Brick Stairs
+tile.new_brick_mossy_stairs_2.name=Mossy Brick Stairs
+
+tile.new_brick_block.name=Bricks
+tile.mossy_brick.name=Mossy Bricks
+tile.mossy_brick_2.name=Mossy Bricks
+
+tile.steel_structure.name=Steel Scaffhold
+tile.oak_structure.name=Wooden Scaffhold
+
+tile.trophy_1.name=Golden Trophy
+tile.trophy_2.name=Iron Trophy
+tile.trophy_3.name=Diamond Trophy
+
+tile.japanese_leaves.name=Sakura Leaves
+
+tile.acacia_planks.name=Acacia Wood Planks
+tile.dark_oak_planks.name=Dark Oak Wood Planks
+
+tile.acacia_log.name=Acacia Wood
+tile.dark_oak_log.name=Dark Oak Wood
+
+tile.halloween_chest.name=Halloween Chest
+tile.japanese_lampion.name=Japanese Lantern
+tile.easter_statue.name=Easter Island's Statue
+tile.japanese_lantern.on_ground.name=Japanese Lantern
+tile.japanese_lantern.on_ceilling.name=Japanese Lantern
+tile.tiki_lantern.name=Tiki Lantern
+tile.bonsai.name=Bonsai
+
+tile.mario_blocks.name=Mario's Block
+
+tile.greySmoke.name=White Smoke
+tile.whiteSmoke.name=Grey Smoke
+
+tile.skull.name=Skull
+tile.skull_spike.name=Spiked Skull
+
+tile.oak_wall.name=Oak Wood Fence
+tile.birch_wall.name=Birch Wood Fence
+tile.spruce_wall.name=Spruce Wood Fence
+tile.jungle_wall.name=Jungle Wood Fence
+tile.dark_oak_wall.name=Dark Oak Wood Fence
+tile.acacia_wall.name=Acacia Wood Fence
+
+tile.disco_block.name=Dance floor
+
+#ITEMS
+
+item.nationsglory_seeds.name=Energy Seed
+item.prismarin_cristal.name=Prismarine Crystals
+item.prismarin_shard.name=Prismarine Shard
+item.rabbit_hide.name=Rabbit Hide
+item.rabbit_foot.name=Rabbit's Foot
+item.clown_fish.name=Clownfish
+item.puffer_fish.name=Pufferfish
+
+item.beer.name=Beer
+item.beer_choppe.name=Mug
+item.can.name=Can
+item.energy_drink.name=Energy Drink
+item.french_fries.name=Belgian Fries
+item.white_candy.name=White Candy
+item.blue_candy.name=Blue Candy
+item.yellow_candy.name=Yellow Candy
+item.black_candy.name=Black Candy
+item.orange_candy.name=Orange Candy
+item.pink_candy.name=Pink Candy
+item.sucette.name=Lollipop
+item.espion_drink.name=Spy's Drink
+item.construct_drink.name=Builder's Drink
+item.raw_rabbit.name=Raw Rabbit
+item.cooked_rabbit.name=Cooked Rabbit
+item.raw_mutton.name=Raw Mutton
+item.cooked_mutton.name=Cooked Mutton
+item.raw_salmon.name=Raw Salmon
+item.cooked_salmon.name=Cooked Salmon
+
+item.fire_sword.name=§6Fire Sword
+item.ultime_hammer.name=Ultimate Hammer
+item.blaze_sword.name=Blaze Sword
+item.dark_repulser.name=Dark Repulser
+item.liberator.name=Liberator
+item.tyran_dragon_sword.name=Tyran Dragon
+item.demonic_sword.name=§dDemonic Sword
+item.master_sword.name=Master Sword
+item.aether_sword.name=Aether Sword
+item.elucidator_sword.name=Elucidator Sword
+item.infinity_sword.name=Infinity Sword
+item.glass_sword.name=Glass Sword
+item.aiguille_sword.name=Needle
+
+item.hellstone_boots.name=Hellstone Boots
+item.hellstone_leggings.name=Hellstone Leggings
+item.hellstone_chestplate.name=Hellstone Chestplate
+item.hellstone_helmet.name=Hellstone Helmet
+
+item.dark_knight_boots.name=Black Knight's Boots
+item.dark_knight_leggings.name=Black Knight's Leggings
+item.dark_knight_chestplate.name=Black Knight's Chestplate
+item.dark_knight_helmet.name=Black Knight's Helmet
+
+item.netherrite_boots.name=Netherrite Boots
+item.netherrite_leggings.name=Netherrite Leggings
+item.netherrite_chestplate.name=Netherrite Chestplate
+item.netherrite_helmet.name=Netherrite Helmet
+
+item.templar_knight_boots.name=Templar's Boots
+item.templar_knight_leggings.name=Templar's Leggings
+item.templar_knight_chestplate.name=Templar's Chestplate
+item.templar_knight_helmet.name=Templar's Helmet
+
+item.demonic_boots.name=§dDemonic Boots
+item.demonic_leggings.name=§dDemonic Leggings
+item.demonic_chestplate.name=§dDemonic Chestplate
+item.demonic_helmet.name=§dDemonic Helmet
+
+item.cops_boots.name=Policeman's Shoes
+item.cops_leggings.name=Policeman's Trousers
+item.cops_chestplate.name=Policeman's Jacket
+item.cops_helmet.name=Policeman's Cap
+
+item.prisoner_boots.name=Prisoner's Shoes
+item.prisoner_leggings.name=Prisoner's Shoes
+item.prisoner_chestplate.name=Prisoner's Shirt
+item.prisoner_helmet.name=Prisoner's Cap
+
+item.crs_boots.name=CRS's Rangers
+item.crs_leggings.name=CRS's Trousers
+item.crs_chestplate.name=CRS's Kevlar
+item.crs_helmet.name=CRS's Helmet
+
+item.mithril_boots.name=White Mithril Boots
+item.mithril_leggings.name=White Mithril Leggings
+item.mithril_chestplate.name=White Mithril Chestplate
+item.mithril_helmet.name=White Mithril Helmet
+
+item.acacia_door.name=Acacia Door
+item.dark_door.name=Dark Oak Door
+item.jungle_door.name=Jungle Door
+item.spruce_door.name=Spruce Door
+item.birch_door.name=Birch Door
+
+item.rabbit_boots.name=Rabbit Hide Boots
+item.rabbit_leggings.name=Rabbit Hide Trousers
+item.rabbit_chestplate.name=Rabbit Hide Jacket
+item.rabbit_helmet.name=Rabbit Hide Hat

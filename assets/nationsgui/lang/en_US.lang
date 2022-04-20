@@ -1,0 +1,1668 @@
+nationsgui.server=Server
+
+nationsgui.shop.buy=Buy
+nationsgui.shop.successful=You've received your purchase !
+nationsgui.shop.stack_tooltip=Shift + Click for stack
+
+nationsgui.summary.shop=§6Catalog
+nationsgui.summary.achievements=Achievements
+nationsgui.summary.help=§cAssistance
+nationsgui.summary.spawn=Teleport to spawn
+
+nationsgui.help.enter=Enter your report here
+nationsgui.help.send=Send
+nationsgui.help.teleport=Teleport
+nationsgui.help.nothing=Nothing here!
+nationsgui.help.loading=Loading
+nationsgui.help.close=Close
+nationsgui.help.done=Done
+nationsgui.help.none=None
+nationsgui.help.thanks=Thanks for sending in a ticket
+nationsgui.help.closed=Ticket resolved by %s
+nationsgui.help.reason=Reason
+nationsgui.help.1=General question
+nationsgui.help.2=Bug report
+nationsgui.help.3=Problem with an assault
+nationsgui.help.new=%s created a new ticket
+
+nationsgui.auth.register=Register
+nationsgui.auth.login=Login
+nationsgui.auth.leave=Leave
+nationsgui.auth.no_match=Passwords don't match
+nationsgui.auth.invalid=Wrong password
+nationsgui.auth.password=Password
+nationsgui.auth.password_confirm=Confirm password
+
+nationsgui.radio.dedicaces_disabled=Requests are disabled
+nationsgui.radio.banned_from_dedicaces=You're banned from requests
+nationsgui.radio.dedicace_sent=Request sent
+nationsgui.radio.unknown_error=An unknown error occurred
+nationsgui.radio.source=Source
+nationsgui.radio.redstone=Redstone
+nationsgui.radio.loop=Loop
+nationsgui.radio.open=Open
+nationsgui.radio.request=Request
+nationsgui.radio.send=Send
+nationsgui.radio.invalid_location=Invalid radio location
+nationsgui.radio.select_radio=Please select a radio first
+nationsgui.radio.invalid=Invalid
+
+nationsgui.buddy.none=None
+nationsgui.buddy.cancel=Cancel
+nationsgui.buddy.send=Send
+nationsgui.buddy.gift=Gift buddy §l%s
+nationsgui.buddy.offline=That user is not online
+nationsgui.buddy.received=Received buddy §l%s§r from §l%s§r
+nationsgui.buddy.sent=Sent buddy §l%s§r to §l%s§r
+nationsgui.buddy.tooltip=Right-click to trade
+
+nationsgui.command.buddy.took=Took buddy %s from %s
+nationsgui.command.buddy.not_found=You don't have buddy %s!
+nationsgui.command.buddy.invalid=Buddy %s doesn't exist!
+nationsgui.command.buddy.has_already=%s already has buddy %s!
+nationsgui.command.buddy.gave=Gave buddy %s to %s
+nationsgui.command.buddy.alias=Added alias %s to buddy %s
+
+nationsgui.command.badge.has_already=%s already has badge %s!
+nationsgui.command.anim.has_already=%s already has animation %s!
+nationsgui.command.badge.gave=Gave badge %s to %s
+nationsgui.command.anim.gave=Gave animation %s to %s
+nationsgui.command.badge.removed=Badge deleted %s to %s
+nationsgui.command.anim.removed=Animation deleted %s to %s
+nationsgui.command.badge.not_found=%s doesn't have this badge %s!
+nationsgui.command.anim.not_found=%s doesn't have animation %s!
+nationsgui.command.badge.not_exist=This badge does not exist!
+nationsgui.command.anim.not_exist=This animation does not exist!
+
+tile.radio.name=Radio
+tile.speaker.name=Speaker
+tile.incubator.name=Incubator
+tile.repair_machine.name=Repair Machine
+
+go.shop=Shop
+exit.ng=§cClose NationsGlory
+nationsgui.minecraft=Minecraft
+nationsgui.other=Other
+nationsgui.servers=Servers
+nationsgui.copyright=©2013-%s NationsGlory. All rights reserved. | Texture Pack by Okinas
+
+nationsgui.solo=SinglePlayer
+nationsgui.multi=Server List
+
+deathScreen.respawn.spawn=§2Server Respawn
+deathScreen.respawn.faction=§cCountry Respawn
+
+nationsgui.shop.touch=Sell to shop (%s)
+hdv.filter.date.increasing
+
+gui.inventory.tab.country=My country
+gui.inventory.tab.create=Create my country
+gui.inventory.tab.0=§7Inventory
+gui.inventory.tab.1=§7Mail
+gui.inventory.tab.2=§7Cosmetic
+gui.inventory.tab.3=§7Quest Book
+gui.inventory.tab.4=§7Skills
+gui.inventory.tab.5=§7Auction House
+gui.inventory.tab.6=§7Countries list
+gui.inventory.tab.7=§7Enterprises list
+gui.inventory.tab.8=§7NGIslands
+
+gui.cosmetic.title=Cosmetics
+gui.cosmetic.tab.0=§7Back
+gui.cosmetic.tab.1=§7Badges
+gui.cosmetic.tab.2=§7Capes
+gui.cosmetic.tab.3=§7Headbuddies
+gui.cosmetic.tab.4=§7Hats
+gui.cosmetic.tab.5=§7Emotes
+gui.hats.title=Hats
+gui.capes.title=Capes
+
+gui.cosmetic.error.capes=Error nationscapes missing
+gui.cosmetic.add=Wear
+gui.cosmetic.remove=Remove
+gui.hats.export=Export
+gui.hats.export_tooltip_1=§cExport the hat as an item
+gui.hats.export_tooltip_2=§bSneak + Right click §7with an item to store it here
+
+gui.achievements.title=Achievements
+
+gui.mail.inbox=Inbox
+gui.mail.send=Send
+gui.mail.reply=Reply
+gui.mail.join=Join
+gui.mail.write=Write
+gui.mail.send=Send
+gui.mail.loading=Loading...
+
+gui.skill.duration=duration
+gui.skill.loot.1=chance
+gui.skill.loot.2=of double loot
+gui.skill.exp=Exp
+gui.skill.nextLevel=Next level
+gui.skill.effects=Effects
+gui.skill.title=Skills
+gui.skill.harvests=harvests
+
+craftbook.name=Craft book
+display.allitem=§7Display/Hide items without craft
+
+sell.press=Press %s to sell this item
+hdv.sell.action=Sell
+hdv.sell.price=§aUnit price :
+hdv.sell.quantity=§aQuantity :
+hdv.sell.taxes=§cTaxes : §6%s $
+hdv.stock=Stock : %s
+hdv.expired=§cExpired
+hdv.superexpired=§cDeleted
+hdv.seller=Seller : %s
+hdv.title=Auction House
+hdv.withdraw=Withdraw
+hdv.buy=Buy
+hdv.totalprice=Total cost : %s $
+hdv.stats=Statistics
+
+hdv.mysales=§2My sales
+hdv.othersales=§cOther sales
+hdv.filter.price.increasing=Price -
+hdv.filter.price.declining=Price +
+hdv.filter.quantity.increasing=Quantity -
+hdv.filter.quantity.declining=Quantity +
+hdv.filter.date.declining=Age -
+hdv.filter.date.increasing=Age +
+
+hdv.return=Return
+hdv.stats.name=§6Stats : %s
+hdv.CHART1_TEXTURE.title=Last 7 days sale prices
+hdv.CHART2_TEXTURE.title=Last 7 days sale quantity
+
+hdv.itemused=Item Used (Life : %s %%)
+hdv.unavailable=§cNo sales found§r
+
+nationsgui.shop.key=§aAuction house
+hdv.expiry.time=Expiry :
+hdv.superexpiry.time=§cDeleting :
+hdv.ad=§bAdvert
+
+hdv.remove.confirm.title=§cInventory Full
+hdv.remove.confirm.text=§cOops ! Your inventory is too small to receive your items, do you want to drop it on the ground ?
+hdv.remove.confirm.no=No
+hdv.remove.confirm.yes=Yes
+
+item.christmas_record.name=Christmas Disk
+options.pictureframe=Display Picture Frame
+options.chat_unicode=Enable Unicode
+options.chat_timestamp=Show Timestamp
+options.chat_tag=Enable Tag
+options.renderHat=Show Hats
+options.voices=Voice chat
+
+textureRefused.title=Unauthorized Resource Pack
+textureRefused.text="XRay" Resources Pack detected. Please select another resource pack to play.
+textureRefused.button=Resource Packs
+objectives.progress=Progression :
+objectives.title=My objectives (%d)
+objectives.collect=Item to collect :
+objectives.validate=§aValidate objective§r
+options.displayobjectives=Display Objectives
+gui.customization.title=Customize GUI
+options.lifedisplay=§cLife Display§r
+options.bighotbar=Hotbar size
+options.sounds=Sounds & Music
+
+options.openScreenshot=Screenshots
+options.screenshots.openScreenshot=§bOpen Screenshots Folder
+options.screenshots.datedScreenshot=Dated Screenshot :
+options.screenshots.datedScreenshot.dated=§aYes§r
+options.screenshots.datedScreenshot.notdated=§cNo§r
+
+lobby.title=§6Tutorial
+lobby.step_1=Presentation
+lobby.step_2=The world
+lobby.step_3=Countries
+lobby.step_4=Wars
+lobby.step_5=The space
+lobby.step_6=Good start
+
+waiting.title=Waiting queue
+waiting.server=Server
+waiting.of=of
+waiting.estimation=Wait estimate
+waiting.pastTime=Waiting time
+waiting.period.1=< 20min
+waiting.period.2=~ 45min
+waiting.period.3=~ 1h
+waiting.period.4=> 1h
+
+warzone.progress.title=Warzone
+warzone.captureby=Controlled by
+warzone.notcontested=§aNot contested
+warzone.contested=§cContested
+warzone.captured=§aCapture done
+warzone.capturing=§aCapture in progress
+warzone.percent=Possession
+warzone.free=Free
+warzone.bonus=Bonus
+warzone.bonus.dollars.label=Dollars
+warzone.bonus.dollars.value=60$/min
+warzone.bonus.power.label=Power
+warzone.bonus.power.value=1/min
+warzone.loot=Next loot
+warzone.leaderboard.daily=Daily
+warzone.leaderboard.weekly=Weekly
+warzone.leaderboard.first=is in first position
+warzone.leaderboard.your_position=Your are in position #
+warzone.leaderboard.no_position=Your country is not yet ranked
+warzone.leaderboard.help=§eClassement Warzone##§7Countries participating in the Warzone are ranked by points.##§7To score points it is enough to have control of a warzone,##§7this earns 1 point every 5 seconds.##§7##§bDaily ranking##§7This ranking is reset every day at 8:00 pm##§7and rewards the first 5 countries in the ranking.##§7##§e1st > §7Care package + 8000$##§e2nd > §75000$##§e3rd > §73000$##§e4ft > §72000$##§e5ft > §71000$##§7##§3Weekly ranking##§7This ranking is reset to zero every Sunday at 8:00 pm##§7and rewards the first country of the week##§7##§e1st > §6Warzone helmet §7+ badge on the country page.
+
+assault.progress.title=§6Assault in progress
+assault.score.title=§6Scores
+assault.package.title=§6Care package
+assault.area.title=§6Capture area
+assault.time=Remaining time
+assault.begin=Start in
+
+assault.title.victory=§eVictory
+assault.title.defeat=§cDefeat
+assault.title.equality=§7Draw
+assault.title.score=§0Summary score
+assault.title.assault=§0Assault summary
+assault.label.score_mode=§7Area/Package
+assault.label.score_missiles=§7Missiles launched/destroyed
+assault.label.score_kills=§7Kills
+assault.label.duration=§7Duration of the assault
+assault.label.kills=§7Kills
+
+faction.tab.0=§7Home
+faction.tab.1=§7Bank
+faction.tab.2=§7Diplomacy
+faction.tab.3=§7Wars
+faction.tab.4=§7Permissions
+faction.tab.5=§7Actions
+faction.tab.6=§7Settings
+
+faction.tab.search.0=§7Create country
+faction.tab.search.1=§7List of countries
+faction.tab.search.2=§7Shares for sale
+faction.tab.search.3=§7List of players
+faction.tab.search.4=§7Countries for sale
+
+faction.common.age_1=§eCreated
+faction.common.age_2=§edays ago
+faction.common.days=days
+faction.common.days.short=d
+faction.common.hour=hour
+faction.common.hours=hours
+faction.common.minutes=minutes
+faction.common.seconds=seconds
+faction.common.death=death
+faction.common.victory=§fVictory (§2+#mmr#§f)
+faction.common.defeat=§fDefeat (§4-#mmr#§f)
+faction.common.true=Yes
+faction.common.false=No
+faction.common.badge.empire=§5Empire
+faction.common.badge.warzone=§cWarzone champion
+faction.common.badge.colony=§6Colony of§5
+faction.common.badge.colony_tax=§bTax:§e
+faction.common.badge.young=§aImmune country, created less than §c2 §adays ago
+faction.common.badge.protection_missile=§cActive missile protection, remaining time: #time# minutes
+faction.common.confirm=Confirm
+faction.common.cancel=Cancel
+faction.common.neutral=§fNeutral
+faction.common.ally=§5Ally
+faction.common.enemy=§cEnemy
+faction.common.truce=§dTruce
+faction.common.colony=§3Colony
+
+faction.tab.home=§6Home
+faction.home.players_online=§2Members online
+faction.home.players_offline=§cMembers offline
+faction.home.infos_level=Level
+faction.home.infos_mmr=MMR
+faction.home.infos_power=Power
+faction.home.infos_claims=Claims
+faction.home.tooltip.member_since_1=Member since§b
+faction.home.tooltip.member_since_2=§fdays
+faction.home.tooltip.salary=Salary
+faction.home.tooltip.tax=Tax
+faction.home.tooltip.offline_since_1=§cOffline since§b
+faction.home.tooltip.offline_since_2=§cdays
+faction.home.tooltip.online=Online
+faction.home.button.join=§aJoin§r
+faction.home.button.tphome=§6TP Home§r
+faction.home.button.leave=Leave the country§r
+faction.home.button.buy=§eBuy the country
+faction.home.button.own_country=§aMy country
+faction.home.button.empire_up=§cPass Empire§r
+faction.home.button.empire_down=§cPass Country§r
+faction.home.tooltip.empire_under_level=§cCondition: §bLevel 60+
+
+faction.bank.title=§6Bank of
+faction.bank.members=§2Members of the bank
+faction.bank.transactions=§cTransactions history
+faction.bank.date_1=
+faction.bank.date_2=ago
+faction.bank.transaction_by=§2Done by§6
+faction.bank.chest_button=Chest
+faction.bank.chest_title=§6Chest of
+faction.bank.chest_level=§6Level
+faction.bank.action_button=Deposit/Take
+faction.bank.modal.action.title=§6Deposit/Withdraw
+faction.bank.modal.action.text_1=§7Enter the amount and select
+faction.bank.modal.action.text_2=§7the action to be performed
+faction.bank.modal.action.deposit=Deposit
+faction.bank.modal.action.take=Withdraw
+faction.bank.chest_disabled_1=§6Unaccessible chest, check that:
+faction.bank.chest_disabled_2=§7- Your country allows you to open it
+faction.bank.chest_disabled_3=§7- You are in the normal world
+faction.bank.chest_disabled_4=§7- You're not in a fight
+faction.bank.chest_disabled_5=§7- You are not in a protected area
+faction.bank.chest_not_available=§cAn other player is using the container.
+faction.sell.modal.action.cancel=§cCancel
+faction.sell.modal.action.confirm=§2Confirm
+faction.sell.modal.action.title=§fSell the country
+faction.sell.modal.action.text_1=§fEnter the price and
+faction.sell.modal.action.text_2=§frelease the sale.
+
+faction.perm.title=§6Permissions
+faction.perm.save=Save
+faction.perm.done=OK !
+
+faction.war.title=§6Wars
+faction.war.warRequestBtn=Status
+faction.war.warAgreementBtn=Aggre.
+faction.war.duration_1=War started
+faction.war.duration_2=ago
+faction.war.summary.sentence=§6#remainingPoints# §9missile points left, #days# days before reset
+faction.war.missile_history=§6Missiles history
+faction.war.missile_firedby=Launched by
+faction.war.assault_history=§6Assaults history
+faction.war.assaults.helpers.ally=Ally support
+faction.war.assaults.helpers.ennemy=Ennemy support
+faction.war.no_result=No war in progress
+faction.war.assault_button=Start assault
+
+faction.war.assault.reason.self.already.assault=§cYour country is already participating in an assault.
+faction.war.assault.reason.other.already.assault=§cThe country is already participating in an assault.
+faction.war.assault.reason.self.mmr.high=§cThe difference in MMR score is too large.
+faction.war.assault.reason.self.days.protection=§cYou must wait until the end of your protection from #protection# days.
+faction.war.assault.reason.other.days.protection=§cYou must wait until the end of the country's protection of #protection# days.
+faction.war.assault.reason.cooldown=§cYou have to wait #cooldown# before you can assault this country again.
+faction.war.assault.reason.other.online.players=§cThe country must have at least two players connected.
+faction.war.assault.reason.self.online.players=§cYour country must have at least two players connected.
+faction.war.assault.reason.ennemy.territory=§cUnable to launch an assault from enemy territory.
+
+faction.create.title=§6Create a country
+faction.create.map=§6Map
+faction.create.location=§6Location
+faction.create.create=Create country
+faction.create.regen=Regen the area
+faction.create.announce=§9Announce the creation
+faction.create.unavailable=No country available
+faction.create.redirect=Find a country
+faction.create.leave=Leave my country
+faction.create.announce_chat=§e#player# §6just created the country §e#country#
+faction.create.hascountry_1=§cYou already have a country,
+faction.create.hascountry_2=leave to be able to create your own.
+faction.create.cooldown=You have to wait 3 hours between two creations of country
+
+faction.search.title=§6Search a country
+faction.search.country=§eCountry
+faction.search.age=§eAge
+faction.search.level=§eLevel
+faction.search.online_players=§2Online
+faction.search.open_filter=§9Show only open countries
+
+faction.search_actions.title=§6Search an action
+faction.search.nb_actions=§eNb. Actions
+faction.search.price_actions=§ePrice
+
+faction.search_sell.title=§6Countries for sale
+faction.search_sell.nb_members=§eMembers
+faction.search_sell.price=§ePrice
+
+faction.search_players.title=§6Find a player
+faction.search_players.pseudo=§eName
+faction.search_players.country=§eCountry
+faction.search_players.power=§ePower
+faction.search_players.wilderness_filter=§9Only display free players
+
+faction.profil.title=§6Profil of
+faction.profil.date_1=Last login
+faction.profil.date_2=
+faction.profil.date_3=ago
+
+faction.profil.actions.promote=§2Promote
+faction.profil.actions.demote=§cDemote
+faction.profil.actions.exclude=§4Exclude
+faction.profil.actions.invite_start=§2Invite to join
+faction.profil.actions.invite_cancel=§cCancel invitation
+faction.profil.actions.add_bank=§6Add to bank
+faction.profil.actions.remove_bank=§cRemove from bank
+faction.profil.actions.send_msg=Send a message
+
+faction.profil.actions.enterprise_invite=§2[Ent] Hire
+faction.profil.actions.enterprise_revoke_invite=§c[Ent] Cancel hiring
+faction.profil.actions.enterprise_exclude=§c[Ent] Fire
+faction.profil.actions.enterprise_promote=§2[Ent] Promote
+faction.profil.actions.enterprise_demote=§c[Ent] Demote
+faction.profil.actions.enterprise_leader=§e[Ent] Promote leader
+
+faction.profil.actions.rank.recruit=recruit
+faction.profil.actions.rank.member=membre
+faction.profil.actions.rank.officer=officier
+faction.profil.actions.rank.leader=leader
+
+faction.profil.boutons.skills=Show skills
+faction.profil.boutons.stats=Show stats
+faction.profil.boutons.badges=Show badges
+
+faction.profil.unique.account_1=§bUnique account
+faction.profil.unique.account_2=§7Does not have a double account
+faction.profil.unique.account_3=§8Recruitment bonus : §6+1000$ and +5 Powerboost
+faction.profil.unique.account_4=§8after player played 1 hour
+faction.profil.unique.account_5=§8during a day
+
+faction.flag.title=§6Flag of
+faction.flag.valid=OK
+faction.flag.reset=§cDelete all
+
+faction.settings.title=§6Settings
+faction.settings.edit_flag=Edit flag
+faction.settings.save_button=Save
+faction.settings.disband_button=Disband
+faction.settings.description=§6Description
+faction.settings.sell_button=§eSell
+faction.settings.logs=§6Logs
+faction.settings.open_text=§9Mandatory invitation to join the country
+
+faction.settings.logs.promote_member=promoted #target# as Member
+faction.settings.logs.promote_officer=promoted #target# as Officer
+faction.settings.logs.promote_leader=promoted #target# as Leader
+faction.settings.logs.demote_recruit=demoted #target# as Recruit
+faction.settings.logs.demote_member=demoted #target# as Member
+faction.settings.logs.invite_start=invited #target#
+faction.settings.logs.invite_cancel=cancelled #target# invitation
+faction.settings.logs.exclude=kicked #target#
+faction.settings.logs.add_bank=added #target# to the bank
+faction.settings.logs.remove_bank=removed #target# from the bank
+faction.settings.logs.edit_flag=edtied the flag
+faction.settings.logs.edit_perms=changed the permissions
+faction.settings.logs.leave=§cleft the country
+faction.settings.cant_sell_1=§4Your country must comply with these conditions:
+faction.settings.cant_sell_2=§cHave at least 6 members
+faction.settings.cant_sell_3=§cHave at least 2 days
+
+faction.modal.title=§6Confirm your action
+faction.disband.text_1=§7Do you realy want to permanently
+faction.disband.text_2=§7disband your country ?
+faction.leave.text_1=§7Do you realy want to
+faction.leave.text_2=§7leave your country ?
+faction.leave.text_3=§cIf you are the leader, the country will be deleted.
+faction.enemy.text_1=§7Are you sure you have a reason
+faction.enemy.text_2=§7to be an enemy to this country?
+faction.colony.text_1=§7Are you sure you want to send
+faction.colony.text_2=§7a colony request to this country?
+faction.colony.text_3=§6You are limited to one request per week.
+faction.refuse_colony.text_1=§7Are you sure you want to refuse
+faction.refuse_colony.text_2=§7this request for colonization ?
+faction.refuse_colony.text_3=§cThis refusal will trigger a war against the Empire.
+faction.leader.text_1=§7Are you sure you want to promote
+faction.leader.text_2=§7this player as the new leader ?
+faction.buy.text_1=§cDo you really want to buy
+faction.buy.text_2=§cthe country §b#country# for §6#price#$ ?
+faction.empire_up.text_1=§7The empire passage allows you to §bcolonize§r
+faction.empire_up.text_2=§7countries but you will be §cmore exposed to wars§r.
+faction.empire_up.text_3=§4An empire can declare war on another empire
+faction.empire_up.text_4=§4without reason for war.
+faction.empire_down.text_1=§cBy passing a non-empire country you lose
+faction.empire_down.text_2=§call your colonies and empire bonuses.
+faction.empire_down.text_3=§2You will no longer be exposed to wars
+faction.empire_down.text_4=§2from other empires (without reason)
+faction.enemy.surrender.text_1=§cAre you sure you want to surrender ?
+faction.enemy.surrender.text_2=§cYour country will be subject to the
+faction.enemy.surrender.text_3=§cconditions set at the beginning of the war.
+
+faction.skills.title=§6Skills of
+
+faction.stats.title=§6Stats of
+faction.stats.type.openchest=Chest open
+faction.stats.type.playtime=Playtime
+faction.stats.type.blockcreate_total=Block placed
+faction.stats.type.move=Move distance
+faction.stats.type.blockdestroy_total=Block destroyed
+faction.stats.type.chat=Messages
+faction.stats.type.kills_total=Kills
+faction.stats.type.teleport=Teleportation
+faction.stats.type.deaths_total=Deaths
+faction.stats.type.exp_total=EXP
+
+faction.diplomatie.title=§6Diplomacy
+faction.diplomatie.online_players=§2Members online
+faction.diplomatie.buttons.page_pays=Show country page
+
+faction.diplomatie_wish.title=§6Diplomatic proposals
+faction.diplomatie_wish.received=§7Received requests
+faction.diplomatie_wish.sent=§7Sent requests
+faction.diplomatie.buttons.wish_1=Diplomatic
+faction.diplomatie.buttons.wish_2=proposals
+
+faction.badges.title=§6Badges of
+options.damageIndicator=Damage Indicator
+options.displayArmorInInfo=Armor in InfoBox
+
+faction.actions.label.status=Status
+faction.actions.label.price=Price
+faction.actions.title=§6Actions
+faction.actions.status.locked=§cLocked
+faction.actions.status.unlocked=§aAvailable
+faction.actions.confirm.text1=§7Do you really want to buy
+faction.actions.confirm.text2=§7this actions for ##dollars##$ ?
+faction.actions.confirm.text3=§cAmount drawn from your country's bank
+faction.actions.label.change.locked=§6Unlock
+faction.actions.label.change.unlocked=§6Lock
+faction.actions.confirm.status.text1.locked=§7Do you really want to unlock this action?
+faction.actions.confirm.status.text2.locked=§7Any country can then buy it.
+faction.actions.confirm.status.text1.unlocked=§7Do you really want to lock this action?
+faction.actions.confirm.status.text2.unlocked=§7It will no longer be available for sale.
+faction.actions.cta.buy=§aClick to buy
+faction.actions.label.cooldown=§cYou have to wait
+faction.actions.title.top=§2Dividend ranking
+faction.actions.title.logs=§2Dividend history
+
+faction.actions.help0=§eHow it works ?
+
+faction.actions.help1=§7Each country has §88 actions
+faction.actions.help2=§7which can be bought
+faction.actions.help3=§7by others countries.
+
+faction.actions.help4=§7By default, the country is owner
+faction.actions.help5=§7of his 8 actions and can sell
+faction.actions.help6=§8them by unlocking them§7.
+
+faction.actions.help7=§8Action's price depends on
+faction.actions.help8=§8the level §7of the country, highest
+faction.actions.help9=§7the level is, highest the price is.
+
+faction.actions.help10=§7When a country owns an action
+faction.actions.help11=§7of an other country, it receives
+faction.actions.help12=§b10% of his notations per action§7.
+
+options.displayNotifications=§6Notifications
+
+faction.actions.button.all_1=Actions
+faction.actions.button.all_2=owned
+
+faction.actions_list.title=§6Actions owned by
+
+faction.actions_list.country=§eCountry
+faction.actions_list.countActions_1=§eNumber
+faction.actions_list.countActions_2=§eof actions
+faction.actions_list.dividendes_1=§eDividends
+faction.actions_list.dividendes_2=§ereceived
+faction.actions_list.value_1=§eCurrent
+faction.actions_list.value_2=§evalue
+
+warzones.title=§6Warzones
+warzones.leader.title=§6Leaderboard
+warzones.claim_by=§fCaptured by :§6
+warzones.teleport=Teleport
+warzones.teleport_remaining=remaining teleportation
+warzones.teleport_unavailable=§cDaily limit reached
+warzones.infos.dollars_1=§7Zone control pays
+warzones.infos.dollars_2=§a60$/min §7to the country
+warzones.infos.dollars_3=§8Limited to 15.000$/day
+warzones.infos.power_1=§7Zone control pays
+warzones.infos.power_2=§a+1 Power/min §7to the country
+warzones.infos.power_3=§8Limited to +400 of Powerboost
+
+noel_avent.title=§6Advent calendar
+
+challenge.title=§6PvP Duel
+challenge.placeholder_kit=§eSelect a kit
+challenge.send_duel=Ask for duel
+challenge.accept_duel=§fAccept duel
+
+island.list.title=Navigate
+island.list.created_by=Created by
+island.list.help.title=Help
+island.list.help.text_1=Les îles sont des
+island.list.help.text_2=parcelles de build
+island.list.help.text_3=sur lesquelles vous
+island.list.help.text_4=avez la main à 100%.
+island.list.help.text_5=
+island.list.help.text_6=Il est possible d'y
+island.list.help.text_7=faire du build en
+island.list.help.text_8=créatif, du PvP,
+island.list.help.text_9=du Football, du Jump,
+island.list.help.text_10=du Gunbox... tout
+island.list.help.text_11=est possible !
+island.list.help.text_12=
+island.list.help.text_13=Vous disposez de
+island.list.help.text_14=WorldEdit et pouvez
+island.list.help.text_15=exporter vos builds
+island.list.help.text_16=vers votre pays.
+
+
+island.list.tooltip.creation=Creation:
+island.list.tooltip.visits=Visits:
+island.list.tooltip.votes=Votes:
+island.list.tooltip.server=Server:
+island.list.filter.visit=Visits
+island.list.filter.connected=Connected
+island.list.filter.vote=Votes
+island.list.create_island=Create island
+island.list.my_islands=My islands
+island.list.all_islands=All
+island.list.tooltip.dring_not_available_1=§8Impossible to ring because
+island.list.tooltip.dring_not_available_2=§8there is no member online
+island.list.tooltip.dring_cooldown=§aRequest sent
+island.list.tooltip.waiting=§8Island in preparation...
+
+island.password.title=Password
+island.password.description_1=Enter the password
+island.password.description_2=to get to this island.
+island.password.error=§4The password is incorrect
+island.password.confirm=Confirm
+island.password.cancel=Cancel
+island.scoreboard.title=NG Island
+
+island.portal.title=Portal code
+island.portal.ng.description_1=To connect the portal to an island
+island.portal.ng.description_2=enter the same code as the portal
+island.portal.ng.description_3=on the server NGIslands.
+island.portal.build.description_1=Copy et paste this given code
+island.portal.build.description_2=in the portal in your country.
+
+island.portal.confirm=Confirm
+island.portal.copy=Copy
+island.portal.cancel=Cancel
+
+island.create.title=Creation
+island.create.name=Name of the island
+island.create.description=Description of the island
+island.create.size=Size of the island
+island.create.biome=Biome of the island
+island.create.private=Private island
+island.create.create_button=Create
+island.create.disable.premium=§cYou cannot create more than 5 islands
+island.create.disable.non_premium_1=§cYou already own an island.
+island.create.disable.non_premium_2=§7Only §6Premium §7players
+island.create.disable.non_premium_3=§7can create several islands
+
+island.main.members=Members
+island.main.visitors=Visitors
+island.main.create.button.own=New island
+island.main.create.button.other=Create my own
+island.main.create.text.own=Need an extra
+island.main.create.text.own_2=island ?
+island.main.create.text.other_1=You want to create
+island.main.create.text.other_2=your own island ?
+island.main.create.cooldown=§cLimited to one creation per hour
+island.main.creative=Creative
+island.main.survival=Survival
+island.main.flyspeed=Speed
+island.main.flyspeed.blocked=§cNeed to be in Creative
+island.main.label.visit=visite
+island.main.label.visits=visites
+island.main.clearinventory=Clear inv.
+
+island.members.help.title=Aide
+island.members.help.text_1=Les membres et
+island.members.help.text_2=les visiteurs
+island.members.help.text_3=n'ont pas les
+island.members.help.text_4=mêmes droits.
+island.members.help.text_5=Cliquez sur un
+island.members.help.text_6=pseudo puis sur
+island.members.help.text_7=une des flêches
+island.members.help.text_8=pour le déplacer
+island.members.help.text_9=d'un groupe à
+island.members.help.text_10=l'autre.
+island.members.manager_teams=Manage teams
+island.members.manager_members=Manage members
+island.members.label.players=Players in team
+
+island.members.flags.label.friendly_fire=Friendly fire
+island.members.flags.label.kit=Give kit on death
+island.members.flags.label.display_name=Names in color
+island.members.flags.label.tp_on_join=TP on join
+island.members.flags.label.kick_leave=Kick player on disconnect
+
+island.members.actions.label.clear=Empty the team
+island.members.actions.label.reset_score=Reset score
+island.members.actions.label.tp=TP players
+island.members.actions.label.clearspawn=Reset spawns
+island.members.actions.label.setkit=Set kit
+
+island.members.scoreType.kill=Kills
+island.members.scoreType.capture_zone=Zone capture
+island.members.scoreType.foot_goal=But Foot
+
+island.perms.help.title=Aide
+island.perms.help.text_1=Définissez les
+island.perms.help.text_2=permissions
+island.perms.help.text_3=en fonction
+island.perms.help.text_4=des groupes.
+island.perms.help.text_5=Après une
+island.perms.help.text_6=modification,
+island.perms.help.text_7=validez avec
+island.perms.help.text_8=le bouton
+island.perms.help.text_9=Sauvegarder
+
+island.perms.role.member=Member
+island.perms.role.visitor=Visitor
+island.perms.label.build=Build
+island.perms.label.gamemode=Gamemode
+island.perms.label.interact=Interact
+island.perms.label.direct_join=Direct access
+island.perms.label.tab_properties=Properties Tab
+island.perms.label.change_biome=Biome
+island.perms.label.change_time=Time
+island.perms.label.change_weather=Weather
+island.perms.label.change_flags=Properties
+island.perms.label.execute_actions=Actions
+island.perms.label.reset_island=Reset
+island.perms.label.item_drop=Drop
+island.perms.label.item_pickup=Pickup
+island.perms.label.lighter=Lighter
+island.perms.label.chest_access=Chests
+island.perms.label.bike=Bikes/Mobs
+island.perms.label.weapon=Weapons
+island.perms.label.item_spawner=Items spawner
+island.perms.label.worldedit=WorldEdit
+island.perms.label.ban=Ban
+island.perms.label.kick=Kick
+island.perms.label.voice=Voice
+island.perms.label.teams=Teams
+island.perms.label.plates=Plates
+
+island.perms.tooltip.build=Place/break blocs
+island.perms.tooltip.gamemode=Enable/Disable gamemode
+island.perms.tooltip.interact=Lever, button, pressure plate, place missiles
+island.perms.tooltip.direct_join=Access without password or ask
+island.perms.tooltip.tab_properties=Access to the management of time, weather, biomes, actions
+island.perms.tooltip.change_biome=Change island's biome
+island.perms.tooltip.change_time=Change hour of the day
+island.perms.tooltip.change_weather=Changer weather
+island.perms.tooltip.change_flags=Enable/Disable properties
+island.perms.tooltip.execute_actions=Execute actions
+island.perms.tooltip.reset_island=Reset island
+island.perms.tooltip.item_drop=Drop item on the ground
+island.perms.tooltip.item_pickup=Pickup items on the ground
+island.perms.tooltip.lighter=Use lighter on blocs
+island.perms.tooltip.chest_access=Open chests
+island.perms.tooltip.bike=Spawn bikes or mobs
+island.perms.tooltip.weapon=Use weapon
+island.perms.tooltip.item_spawner=Manage items spawner
+island.perms.tooltip.worldedit=Can use WorldEdit
+island.perms.tooltip.ban=Ban a player (/ban)
+island.perms.tooltip.kick=Kick a player (/kick)
+island.perms.tooltip.voice=Speak with voice chat
+island.perms.tooltip.teams=Manage teams
+island.perms.tooltip.plates=Place/Config island plates
+
+island.settings.name=Name
+island.settings.description=Description
+island.settings.welcome=Message d'accueil
+island.settings.edit_flag=Edit the flag
+island.settings.private=Private
+island.settings.delete=Delete island
+island.delete.text_1=Are you sure you want to
+island.delete.text_2=delete your island ?
+
+island.properties.biome=Biome
+island.properties.flags=Properties
+island.properties.actions=Actions
+island.properties.reset=Reset island
+island.properties.time.label.day=10h
+island.properties.time.label.night=00h
+island.properties.time.label.cycle=Cycle
+island.properties.flags.label.tnt=Explosions
+island.properties.flags.label.snow-melt=Snow melt
+island.properties.flags.label.creeper-explosion=Crepper Explo
+island.properties.flags.label.water-flow=Water flow
+island.properties.flags.label.lava-flow=Lava flow
+island.properties.flags.label.mob-damage=Mob damages
+island.properties.flags.label.other-explosion=Missiles
+island.properties.flags.label.fire-spread=Fire spread
+island.properties.flags.label.fall-damage=Fall Damag.
+island.properties.flags.label.auto-feed=Feed
+island.properties.flags.label.gun=Gun
+island.properties.flags.label.item-drop=Jeter items
+island.properties.flags.label.item-pickup=Remasser items
+island.properties.flags.label.items-death=Drop stuff mort
+island.properties.flags.label.reset-win=Reset score at the end of a game
+island.properties.flags.label.auto-spawn-ball=Auto spawn ball at the end of a game
+island.properties.flags.label.spawn-after-jump=TP spawn at the end of jump
+
+island.properties.actions.label.kill_hostile=Kill mobs
+island.properties.actions.label.kill_passive=Kill animals
+island.properties.actions.label.set_spawn=Set spawn
+island.properties.actions.label.kick_players=Kick visitors
+island.properties.actions.label.tp_players=TP visitors
+island.properties.actions.label.respawn_all=Respawn teams
+island.properties.actions.label.reset_score=Reset scores
+
+island.reset.text_1=Are you sure you want to
+island.reset.text_2=reset your island ?
+
+island.backup.last_save=§7Last save
+island.backup.my_saves=My saves
+island.backup.save_name=Name of the save
+island.backup.limit_1=§cLimited to 6 saves
+island.backup.limit_2=§8Delete a save
+island.backup.limit_3=§8to create a new one.
+
+island.global.premium_required=§6Premium rank required
+island.global.permission_required=§cPermission required
+island.global.save=Save
+island.global.cooldown_1=§cLimited to one reset/save
+island.global.cooldown_2=§cper 5 minutes
+
+island.tab.0=Home
+island.tab.1=Members
+island.tab.2=Permissions
+island.tab.3=Settings
+island.tab.4=Properties
+island.tab.5=Saves
+
+item.island_portal.name=NGIslands Portal
+tile.antibullet.name=Bloc bulletproof
+
+trade.rejected=[All] §c%s has just refused your request.
+trade.busy=[All] §8%s is currently busy.
+trade.toofar=[All] §8%s is too far away to make a trade.
+trade.ignored=[All] %s is ignored for the next two hours.
+trade.wish=[All] %s wishes to exchange.
+trade.cancel=[All] §c%s just called off the exchange.
+trade.request=[All] §6%s §ewants to trade with you. Make §6/troc %s §eto accept.
+trade.request_sent=[All] §aExchange request sent, awaiting response from %s
+trade.sameperson=[All] §8You can't trade with yourself.
+
+trade.accept=Accept
+trade.decline=Refuse
+trade.ignore=Ignore
+trade.not_enough_money=§8You don't have enough money
+
+emotes.yes.name=Yes !
+emotes.no.name=No..
+emotes.clap.name=Clap
+emotes.headbang.name=Head bang
+emotes.airguitar.name=Air guitar
+emotes.cheer.name=Cheer
+emotes.exorcist.name=Exorcist
+emotes.facepalm.name=Facepalm
+emotes.shrug.name=Shrug
+emotes.stand.name=Stand
+emotes.think.name=Think
+emotes.wave.name=Wave
+emotes.point.name=Point
+emotes.run.name=Run
+emotes.salute.name=Salute
+emotes.shaftheadtilt.name=Shaft head
+emotes.zombie.name=Zombie
+emotes.levitate.name=Levitate
+emotes.gangnamstyle.name=Gangnam style
+emotes.balance.name=Yoga
+emotes.spinhead.name=Spin head
+emotes.dab.name=Dab
+emotes.stillarms.name=Still arms
+emotes.geddan.name=Geddan
+emotes.joseph.name=Dance 1
+emotes.wry.name=Laugh out loud
+emotes.awaken.name=Bow down
+
+enterprise.tab.home=§6Home
+enterprise.tab.home_services=§6Services
+
+enterprise.tab.0=§7Home
+enterprise.tab.1=§7Bank
+enterprise.tab.2=§7Permissions
+enterprise.tab.3=§7Contracts
+enterprise.tab.4=§7Settings
+enterprise.tab.5=§7Plots
+enterprise.tab.6=§7Performances
+enterprise.tab.7=§7Stats
+enterprise.tab.8=§7Bets
+enterprise.tab.9=§7Production
+enterprise.tab.10=§7Production
+enterprise.tab.11=§7Production
+
+enterprise.home.players_online=§2Online employees
+enterprise.home.players_offline=§cOffline employees
+enterprise.type.all=All types
+enterprise.type.build=Construction
+enterprise.type.engineer=Engineer
+enterprise.type.terraform=Terraform
+enterprise.type.journalist=Journalism
+enterprise.type.casino=Casino
+enterprise.type.lawyer=Lawyers
+enterprise.type.pvp=Fight
+enterprise.type.loan=Loan
+enterprise.type.realestate=Real estate
+enterprise.type.trader=Traders
+enterprise.type.bet=Bet
+enterprise.type.repair=Repair
+enterprise.type.electric=Electricity
+enterprise.type.petrol=Petrol
+enterprise.type.farm=Farm
+
+enterprise.home.tooltip.member_since_1=Employee since
+enterprise.home.tooltip.member_since_2=days
+enterprise.home.tooltip.offline_since_1=§cOffline since§b
+enterprise.home.tooltip.offline_since_2=§cdays
+enterprise.home.tooltip.online=Online
+enterprise.home.button.leave=Leave
+enterprise.home.button.services=Services
+enterprise.home.button.contract=Mandate
+enterprise.home.button.infos=Show informations
+
+enterprise.home.button.contract.closed=§cThis enterprise does not accept new contracts
+enterprise.home.button.contract.delay=§cPlease wait a little bit##§cbefore send a new request for contract.
+
+enterprise.role.leader=§bLeader
+enterprise.role.cadre=§eManager
+enterprise.role.employee=§eEmployee
+
+enterprise.infos.turnover=§6Turnover
+enterprise.infos.contractsDone=§9Signed Contracts
+enterprise.infos.contractsSuccess=§aSuccess of contracts
+enterprise.infos.disputes=§cLost disputes
+
+enterprise.perm.label.invite=Invite
+enterprise.perm.label.perms=Permissions
+enterprise.perm.label.flag=Edit logo
+enterprise.perm.label.contracts=Contracts
+enterprise.perm.label.promote=Promote
+enterprise.perm.label.demote=Demote
+enterprise.perm.label.exclude=Exclude
+enterprise.perm.label.salary=Salary
+enterprise.perm.label.bank_log=Bank logs
+enterprise.perm.label.settings=Settings
+enterprise.perm.label.capital=Capital contrib.
+enterprise.perm.label.locations=Manage plots
+enterprise.perm.label.buyRent=Manage properties
+enterprise.perm.label.bets=Manage bets
+enterprise.perm.label.loan=Manage loans
+
+enterprise.perm.tooltip.invite=Invite a player in the enterprise
+enterprise.perm.tooltip.perms=Manage permissions
+enterprise.perm.tooltip.flag=Edit logo
+enterprise.perm.tooltip.contracts=Manage contracts
+enterprise.perm.tooltip.promote=Promote an employee
+enterprise.perm.tooltip.demote=Demote as employee
+enterprise.perm.tooltip.exclude=Fire player
+enterprise.perm.tooltip.salary=Manage salaries/bonuses
+enterprise.perm.tooltip.bank_log=View bank transactions
+enterprise.perm.tooltip.settings=Change settings
+enterprise.perm.tooltip.capital=Inject money into society
+enterprise.perm.tooltip.locations=Manage sales/rental plots
+enterprise.perm.tooltip.buyRent=Buy/rent property
+enterprise.perm.tooltip.bets=Create and manage bets
+enterprise.perm.tooltip.loan=Accept/Decline loans
+
+enterprise.bank.flux=Flux /14 days
+enterprise.bank.waiting_money=Current contracts
+enterprise.bank.salaries=Salaries /14 days
+enterprise.bank.taxes=Tax /14 days
+enterprise.bank.btn_disabled=§cYou don’t have permission
+enterprise.bank.btn.salary=Salary
+enterprise.bank.btn.bonus=Bonus
+enterprise.bank.btn.capital=Capital contrib.
+
+enterprise.bank.transaction.type.server=§cAdmin regularization
+enterprise.bank.transaction.type.tax=§cTax
+enterprise.bank.transaction.type.salary=§cSalary paid to §6<player>
+enterprise.bank.transaction.type.bonus=§cBonus paid to §6<player>
+enterprise.bank.transaction.type.contract=Contracts
+enterprise.bank.transaction.type.capital=§aCapital contrib. of §6<player>
+enterprise.bank.transaction.type.coin_buy=§aToken purchase by §6<player>
+enterprise.bank.transaction.type.reward=§eWon by §6<player>
+enterprise.bank.transaction.type.performance=§aPerformance of §6<player>
+enterprise.bank.transaction.type.coin_sell=§cToken sale by §6<player>
+enterprise.bank.transaction.type.parcelle_rent=§aPlot rental to §6<player>
+enterprise.bank.transaction.type.parcelle_buy=§aPlot purchase by §6<player>
+enterprise.bank.transaction.type.parcelle_sell=§aSale of plot to §6<player>
+enterprise.bank.transaction.type.parcelle_rent_refund=§cRental refund to §6<player>
+enterprise.bank.transaction.type.parcelle_rent_refunded=§CRental refund by §6<player>
+enterprise.bank.transaction.type.bet=§eWin of bet §6<player>
+enterprise.bank.transaction.type.loan_rate=§aLoan interest of §6<player>
+enterprise.bank.transaction.type.loan_refund=§cLoan refund of §6<player>
+enterprise.bank.transaction.type.loan=§cLoan of §6<player>
+enterprise.bank.transaction.type.electricity=§aElectricity §6<player>
+enterprise.bank.transaction.type.petrol=§aPetrol §6<player>
+enterprise.bank.transaction.type.sell_cereals=§aSale Cereal by §6<player>
+
+enterprise.bank.modal.salary.title=§6Manage salaries
+enterprise.bank.modal.salary.text_1=§fEnter an amount for each role,
+enterprise.bank.modal.salary.text_2=§f§oSalaries are paid every monday.
+enterprise.bank.modal.action.cancel=§cCancel
+enterprise.bank.modal.action.valid=§2Valid
+enterprise.bank.modal.bonus.title=§6Bonus payment
+enterprise.bank.modal.bonus.text_1=§fChoose an employee and indicate
+enterprise.bank.modal.bonus.text_2=§fthe amount of the bonus to be paid.
+enterprise.bank.modal.capital.title=§6Capital contrib.
+enterprise.bank.modal.capital.text_1=§fIndicate the amount you want
+enterprise.bank.modal.capital.text_2=§fInject into enterprise
+
+enterprise.settings.close_button=Delete
+enterprise.settings.edit_flag=Edit logo
+enterprise.settings.open_text=§fOpen (accepts new contracts)
+enterprise.settings.services_button=Services
+
+enterprise.flag.reset=§cReset
+
+enterprise.settings.logs.change_settings=changed settings
+enterprise.settings.logs.edit_flag=modified the logo
+enterprise.settings.logs.invite=§ainvited§6 #target#
+enterprise.settings.logs.exclude=§cexcluded§6 #target#
+enterprise.settings.logs.join=§ajoined the enterprise
+enterprise.settings.logs.leave=§cleave the enterprise
+enterprise.settings.logs.qg=§9changed the QG location
+
+enterprise.leader.text_1=§CAre you sure you want to give
+enterprise.leader.text_2=§cthe role of leader to this player?
+enterprise.disband.text_1=§cAre you sure you want to dissolve
+enterprise.disband.text_2=§cyour enterprise
+enterprise.leave.text_1=§cAre you sure you want to leave?
+enterprise.leave.text_2=§cthis enterprise?
+
+enterprise.list.title=§6List of enterprises
+enterprise.list.name=§fEnterprise
+enterprise.list.type=§fType
+enterprise.list.satisfaction=§fSatisfac.
+enterprise.list.online_players=§aOnline
+enterprise.list.open_filter=§fShow only open enterprise
+
+enterprise.contract.action.cancel=Cancel
+enterprise.contract.action.valid=Sign
+enterprise.contract.label.demand=Request
+enterprise.contract.label.current_assault=Assault in progress
+enterprise.contract.label.concerned_country=§fContract for country
+enterprise.contract.label.price=Price
+enterprise.contract.label.price_pvp=Price (min 5000$)
+enterprise.contract.label.price_repair=§fPrice/u (min 1$)
+enterprise.contract.label.amount_repair=§fQuantity
+enterprise.contract.label.total_price=Contract price:
+enterprise.contract.label.investment=Investment
+enterprise.contract.label.mymoney=Money available
+enterprise.contract.label.invested=Already invested in<enterprise>
+enterprise.contract.label.delay=Delay
+enterprise.contract.label.condition=Condition
+enterprise.contract.label.loan.amount=Amount (min 1k$)
+enterprise.contract.label.loan.duration=Duration
+enterprise.contract.label.loan.garant=Name guarant.
+enterprise.contract.label.loan.items=Pledged items
+enterprise.contract.label.loan.rate=Rate
+enterprise.contract.label.loan.type=Warranty
+enterprise.contract.label.loan.totalDue=Total amount due:
+enterprise.contract.title.services=Service
+enterprise.contract.delay.3h=3 hours
+enterprise.contract.delay.6h=6 hours
+enterprise.contract.delay.12h=12 hours
+enterprise.contract.delay.1j=1 day
+enterprise.contract.delay.2j=2 days
+enterprise.contract.delay.3j=3 days
+enterprise.contract.delay.5j=5 days
+enterprise.contract.delay.1s=1 week
+enterprise.contract.delay.2s=2 weeks
+enterprise.contract.delay.3s=3 weeks
+enterprise.contract.delay.1m=1 month
+enterprise.contract.duration.days=d
+enterprise.contract.loan.type.garant=Guarantor
+enterprise.contract.loan.type.items=Items
+
+enterprise.contract.trader.investment_limit=§4Investment limit reached##§cYour investment must not exceed §b$50.000##§cor §b10% of the total amount §cinvested in this company.##§4You can still invest: §c<limit>$
+
+enterprise.contract.condition.victory=Victory
+enterprise.contract.condition.participation=Help ally
+
+enterprise.contract.error.enterprise_not_found=§cEnterprise not found
+enterprise.contract.error.not_in_assault=§cYou must be in the assault
+enterprise.contract.error.not_main_participator=§cYour country is not directly concerned by the assault
+enterprise.contract.error.not_in_country=§cYou must belong to a country
+enterprise.contract.error.already_contract=§cA contract is already open
+
+enterprise.parcelle.title=Plots
+
+enterprise.bet.title=Bets of #enterprise#
+enterprise.bet.btnCreate=New bet
+enterprise.bet.btnCreate.disabled=§cYou don't have the permission
+enterprise.bet.tooltip.active=Bets in progress
+enterprise.bet.tooltip.total=Bets started
+enterprise.bet.tooltip.reward=Amount won (players)
+enterprise.bet.minBet=Min bet
+
+enterprise.bet.status.to_bet=§aOpen
+enterprise.bet.status.bet=§eIn progress
+enterprise.bet.status.expired=§7Waiting for result
+enterprise.bet.status.done=§cDone
+
+enterprise.bet.create.title=Bet creation
+enterprise.bet.create.question=Title
+enterprise.bet.create.option1=Option 1
+enterprise.bet.create.option2=Option 2
+enterprise.bet.create.duration=Duration (hour)
+enterprise.bet.create.betMin=Min bet
+
+enterprise.bet.players=player(s)
+
+enterprise.contract.title=§6Contracts
+enterprise.contract.ends_in=End in
+enterprise.contract.at_end_assault=End of the assault
+enterprise.contract.expired=Expired
+
+enterprise.contract.content.trader=Initial amount paid: <amount>$
+
+enterprise.contract.status.all=All
+enterprise.contract.status.waiting_enterprise=§6To be validated (entr.)
+enterprise.contract.status.waiting_garant=§eTo sign (guarantor)
+enterprise.contract.status.in_progress=§7In progress
+enterprise.contract.status.failure=§4Failure
+enterprise.contract.status.done=§2Done
+enterprise.contract.status.refused=§4Refused
+enterprise.contract.status.cancelled=§4Cancelled
+enterprise.contract.status.dispute_open_enterprise=§cLitig. open (ent.)
+enterprise.contract.status.dispute_open_client=§cLitig. open (client)
+enterprise.contract.status.dispute_close_enterprise=§cLitig. closed (ent.)
+enterprise.contract.status.dispute_close_client=§cLitig. closed (client)
+enterprise.contract.status.expired=§fExpired
+
+enterprise.parcelle.status.to_rent=§eFor rent
+enterprise.parcelle.status.to_sell=§6For sale
+enterprise.parcelle.status.rent=§aRented
+enterprise.parcelle.status.free=§cAvailable
+enterprise.parcelle.status.all=§fAll
+
+enterprise.contract.btn_label.accept=Accept
+enterprise.contract.btn_label.decline=Refuse
+enterprise.contract.btn_label.get_items=Recover
+enterprise.contract.btn_label.dispute=Litigation
+enterprise.contract.btn_label.validate=Validate
+enterprise.contract.btn_label.refund=Refund
+enterprise.contract.btn_label.sign=Sign
+enterprise.contract.btn_label.cancel=Cancel
+enterprise.contract.btn_label.dispute_for_client=Client
+enterprise.contract.btn_label.dispute_for_enterprise=Enterprise.
+enterprise.contract.btn_label.retire=Remove
+
+enterprise.contract.label.garant_warning=Amount to be paid:
+
+enterprise.loan.infos=§6Guarantee:##§e- Pledged items: §fWhen the contract is created the items are taken,##§fthey will be used to compensate the enterprise in case of a dispute.##§7The items are those in your inventory bar.##§f##§e- Guarantor: §fThe guarantor will have to sign the contract before the enterprise accepts it##§fand pay 50% of the amount of the loan as a guarantee,##§fit will be used in case of a dispute or returned at the end of the loan.##§7##§cLimitations:##§f- 1 loan max per player##§f- Max 1.000.000$##§f- Max 25.000$ if playing time < 25h
+
+enterprise.parcelle.btn_label.cancel=Cancel
+enterprise.parcelle.btn_label.remove=Remove
+
+enterprise.bet.btn_label.end=End
+enterprise.bet.btn_label.bet=Bet
+enterprise.bet.btn_label.cancel=Cancel
+
+enterprise.bet.mise=My bet:
+
+enterprise.trader.title=§6Investment statistics
+enterprise.trader.label.my_investment=My investment.
+enterprise.trader.label.investors=Nb. of investors
+enterprise.trader.label.sum_investment=Amount invested.
+enterprise.trader.label.total_generated=Money generated
+
+enterprise.STATS_TEXTURE.title=Performances last 14 days (%)
+
+enterprise.casino.title=§6Casino stats
+enterprise.casino.label.benef_moy=Profit /day
+enterprise.casino.label.win_percent=Redistrib. rate
+enterprise.casino.label.total_play=Amount played
+enterprise.casino.label.total_reward=Amount redistrib.
+
+enterprise.STATS_TEXTURE.casino.title=Profit last 14 days (%)
+
+enterprise.electric.title=§6Production stats
+enterprise.electric.label.available=Available
+enterprise.electric.label.total=Total distributed
+enterprise.STATS_TEXTURE.electric.title=Sale (Blue) and Storage (Yellow) last 14 days (MW)
+enterprise.electric.btnPrice=§fPrice: §a<price>$/GW
+enterprise.electric.modal.price.title=§6Electricity price
+enterprise.electric.modal.price.text_1=Indicate the price per MegaWatt billed
+enterprise.electric.modal.price.text_2=to the company's customers.
+enterprise.electric.modal.price.text_3=§4Set price 0$ to stop selling.
+enterprise.electric.modal.avg=Average price:
+enterprise.electric.modal.price.restrict=Players allowed to buy:
+enterprise.electric.modal.price.all=Everyone
+enterprise.electric.modal.price.country=Members of <country>
+enterprise.electric.modal.price.ally=Allies of <country>
+
+enterprise.petrol.title=§6Production stats
+enterprise.petrol.label.available=Available
+enterprise.petrol.label.total=Total distributed
+enterprise.STATS_TEXTURE.petrol.title=Sale (Blue) and Storage (Yellow) last 14 days (L)
+enterprise.petrol.btnPrice=§fPrice: §a<price>$/100L
+enterprise.petrol.modal.price.title=§6Fuel price
+enterprise.petrol.modal.price.text_1=Indicate the price per 100L of fuel
+enterprise.petrol.modal.price.text_2=billed to the company's customers.
+enterprise.petrol.modal.price.text_3=§4Set price 0$ to stop selling.
+enterprise.petrol.modal.avg=Average price:
+enterprise.petrol.modal.price.restrict=Players allowed to buy:
+enterprise.petrol.modal.price.all=Everyone
+enterprise.petrol.modal.price.country=Members of <country>
+enterprise.petrol.modal.price.ally=Allies of <country>
+
+enterprise.farm.title=§6Cereal production
+enterprise.farm.label.history=Sales (kg)
+enterprise.farm.label.today=Sold today
+enterprise.farm.label.total=Total sold
+enterprise.STATS_TEXTURE.farm.title=Sales 7 last days (kg)
+enterprise.farm.btnMarket=§bGlobal market
+
+enterprise.create.title=Create an enterprise
+enterprise.create.name=Name
+enterprise.create.type=Type
+enterprise.create.create=Create
+enterprise.create.disable.count=§cYou have reached the maximum number of##§ccreated enterprises for your grade.##§7Without grade: §f1 enterprise##§8Heros: §f2 enterprises##§3Legende: §f3 enterprises##§6Premium: §f5 enterprises
+enterprise.create.max_join.count=§cYou have reached the maximum number of##§centerprises for your grade.##§7Without grade: §f2 enterprises##§8Heros: §f3 enterprises##§3Legende: §f5 enterprises##§6Premium: §f7 enterprises
+enterprise.create.disable.type=§cYou already own an enterprise of this type.
+enterprise.create.forbidden.type=§cYou do not have permission to set up this type of business.
+enterprise.create.not_available.type=§cThis enterprise type is not yet available.
+enterprise.create.fee=Costs
+
+enterprise.create.error.name_already_exists=§4an enterprise already exists under this name.
+enterprise.create.error.name_not_valid=§4The entered name is not valid.
+enterprise.create.error.insufficient_money=§4You do not have the necessary funds.
+enterprise.create.error.name_length=§4The name must be at least 3 characters long.
+enterprise.create.error.forbbiden_loan=§4Impossible to create, you are banned from banking.
+
+enterprise.create.no_assault=§4No assault in progress.
+enterprise.create.text_description.pvp=§2<playerFaction> (+ <factionHelpers>) request assistance in the assault against the §4<opponentFaction> (+ <opponentHelpers>) for the sum of <price>$. The condition for the sucess of the contract is  : <condition>
+enterprise.create.text_description.loan=Loan of <amount>$ over a term of <duration> day(s) with a rate of <rate>% for a total amount due of <totalDue>$. Proposed guarantee: <waranty> <warant>
+
+enterprise.tab.search.0=Create an enterprise
+enterprise.tab.search.1=List of enterprises
+
+enterprise.create.type.desc.build=Entreprise chargée de construire divers batîments ou ouvrages sur commande. Les clients sont des joueurs ou des pays qui ont besoin de faire construire quelque chose à un emplacement donné et dans un laps de temps défini.
+enterprise.create.type.desc.engineer=Entreprise spécialisée dans la réalisation de systèmes complexes sur commande. Les clients ont besoin de faire construire des pièges, systèmes redstone, salle à spawner, systèmes électriques etc..
+enterprise.create.type.desc.terraform=Entreprise chargée de réaliser de gros travaux sur le terrain pour le compte de joueurs ou de pays. Les contrats concernent par exemple les trous de T4, les montagnes à façonner, les forêts à raser...
+enterprise.create.type.desc.journalist=Entreprise en capacité de répondre à des demandes précises pour le staff ou les pays. Le travail consiste à réaliser des comptes rendus, des interview, des montages photos, des trailers ou cinématiques...
+enterprise.create.type.desc.casino=Entreprise dont le but est de proposer des jeux d'argent aux autres joueurs. Les jeux d'argent sont composés de système redstone et le casino dispose d'un panneau spécial permettant d'activer le circuit contre des dollars.
+enterprise.create.type.desc.pvp=Entreprise spécialisée dans le PvP et plus précisement l'aide en assaut. Lors d'un assaut, un pays peut mandater une entreprise PvP afin d'avoir un soutien et que les employés de l'entreprise puissent venir combattre ses ennemis.
+enterprise.create.type.desc.loan=Entreprise dont la seule mission consiste à prêter de l'argent à ses clients. La somme prêtée, plus des interêts, doivent être rendus dans le temps imparti et le tout est sécurisé grâce aux contrats.
+enterprise.create.type.desc.realestate=Entreprise qui gère des biens immobiliers et en fait commerce à travers des locations ou de l'achat/revente. Ces entreprises peuvent créer des parcelles dans les pays mais aussi acheter des parcelles dans la Capitale.
+enterprise.create.type.desc.trader=Entreprise spécialisée dans les investissements, sont but est d'avoir un maximum d'argent investi pour le faire travailler. Pour ce faire les employés disposent de machine "serveur" qui permettent de générer de l'argent.
+enterprise.create.type.desc.bet=Entreprise de paris en tout genre, qu'ils soient basés sur des faits in-game ou bien IRL. Ces entreprises peuvent proposer des paris et les joueurs peuvent y participer, le tout est automatisé dans l'interface de l'entreprise.
+enterprise.create.type.desc.repair=Entreprise dont la mission consiste à réparer des machines sur commande. Ce sont des entreprises qui disposent d'une machine permettant de fabriquer des rouages. Munis d'une clé spéciale, les employés peuvent réparer les machines.
+enterprise.create.type.desc.lawyer=Entreprise dont la mission est de soutenir ses clients sur divers sujets conflictuels. Les avocats interviennent notamment sur les plaintes afin d'appuyer leur client et de favoriser l'issu de la plainte.
+enterprise.create.type.desc.electric=Entreprise dont la mission est de générer, de stocker et de vendre de l'électricité. Tous les joueurs peuvent acheter l'electricité en utilisant un compteur électrique.
+enterprise.create.type.desc.petrol=Entreprise dont la mission est de générer, de stocker et de vendre de de l'essence. Pour obtenir de l'essence, l'entreprise devra pomper du pétrole et le raffiner. L'essence se vend et s'achète dans les citernes.
+enterprise.create.type.desc.farm=Entreprise dont la mission est de cultiver des céréales et faire de l'élevage d'animaux afin de récolter des ressources et les revendre sur les marchés mondiaux dédiés à ces entreprises.
+
+moon.title=Moon Project
+moon.contribute=Contribute
+moon.achieved=Goal Achieved !
+moon.desc=Once the goal is reached, a warp will be placed on the moon and will allow any player to teleport there without a rocket.
+moon.info=§eReceive an exclusive badge##§efor any donation over 10.000$##§7##§6The top three donors will##§6also receive an exclusive hat.
+moon.modal.confirm=Confirm
+moon.modal.cancel=Cancel
+moon.modal.title=Moon Project
+moon.modal.desc_1=Indicate the amount you want
+moon.modal.desc_2=to donate to the project
+moon.label.leader=Top
+moon.label.leader.title=Top donators
+
+voice.enabled=Voice chat: §aActive
+voice.disabled=Voice chat: §cDisabled
+voice.test_micro=Test Microphone
+voice.stop_micro=Stop testing
+voice.volume=Voice volume
+voice.boost=Boost micro:
+voice.mode=Speak Mode:
+voice.decoding=Enhanced Decoding:
+voice.encoding_quality=Encoding Quality:
+voice.encoding_mode=Encoding Mode:
+voice.no_input=No input devices found, please insert a microphone and restart Minecraft.
+voice.settings_title=Voice Chat Options
+
+faction.enemy.title=§6Request of war
+faction.enemy.title.war=War vs
+faction.enemy.reason=Reason
+faction.enemy.contitions=Conditions
+faction.enemy.rewards=Rewards
+faction.enemy.creationDate=Creation date
+faction.enemy.linkForum=Forum link
+faction.enemy.noLinkForum=§cNo forum post required
+faction.enemy.surrender=Abandon
+faction.enemy.send_request=Send the request
+faction.enemy.cancel_request=Cancel the request
+faction.enemy.refuse_request=Refuse the request
+faction.enemy.accept_request=Accept the request
+faction.enemy.save_request=Save
+faction.enemy.send_conditions_att=Save and send
+faction.enemy.send_conditions_def=Send counter-proposal
+faction.enemy.accept_conditions_def=Accept
+faction.enemy.refuse_conditions_att_second=Refuse counter-proposal
+faction.enemy.inactivity=Inactivity
+faction.enemy.winner=Winner
+faction.enemy.looser=Looser
+faction.enemy.none=None
+
+faction.enemy.conditionsType.or=Or
+faction.enemy.conditionsType.and=And
+faction.enemy.conditionsType.null=And
+
+faction.enemy.conditions.kill=Kills
+faction.enemy.conditions.victory=Victories
+faction.enemy.conditions.missile_point=Pts. missile
+faction.enemy.conditions.assault_point=Pts. assault
+faction.enemy.conditions.anti=Antimatter
+faction.enemy.conditions.red=Redmatter
+
+faction.enemy.rewards.dollars=§eDollars
+faction.enemy.rewards.power=§bPower
+faction.enemy.rewards.claims=§cClaims
+faction.enemy.rewards.colonisation=§3Colonisation
+faction.enemy.rewards.peace=§aNon-war
+
+faction.enemy.rewards.valueType.day=d
+faction.enemy.rewards.valueType.dayLong=day(s)
+
+faction.enemy.reason.kill_wilderness=Kill wilderness
+faction.enemy.reason.provocation=Provocation
+faction.enemy.reason.territorial_expansion=Territorial expansion
+faction.enemy.reason.treason=Treason
+faction.enemy.reason.intrusion=Territorial intrusion
+faction.enemy.reason.scam=Scam
+faction.enemy.reason.tpkill=TP-kill
+faction.enemy.reason.independence=Independence colony
+faction.enemy.reason.colony_refusal=Colonisation
+faction.enemy.reason.colony_protection=Colony attack
+faction.enemy.reason.buffer_country=Buffer country
+faction.enemy.reason.under_power=Under-power country
+faction.enemy.reason.reprisal=Reprisal assault
+faction.enemy.reason.follow_war=Follow war
+faction.enemy.reason.500mmr=Country >500 MMR
+faction.enemy.reason.unknow=Unknow
+faction.enemy.reason.empire=Empire Rivalry
+faction.enemy.reason.war_revenge=War revenge
+faction.enemy.reason.bombing_asssistance=Bombing aid
+faction.enemy.reason.treaty=Treated war
+faction.enemy.reason.colony_steal=Colony robbery
+
+faction.enemy.reason.auto=§aAutomatic acceptance
+faction.enemy.reason.forum=§cPost forum required
+faction.enemy.reason.desc.kill_wilderness=Murder in the Wilderness or in a country that does not belong to the killer or the victim. (7 days)
+faction.enemy.reason.desc.provocation=Roleplay provocation from one country to another.
+faction.enemy.reason.desc.territorial_expansion=Expansion of a country that has claimed and built its entire territory on a neighbouring country.
+faction.enemy.reason.desc.treason=Betrayal of a member of the country, possibility of war in the host country.
+faction.enemy.reason.desc.intrusion=Prolonged intrusion into a country for more than one minute.
+faction.enemy.reason.desc.scam=Proven fraud against a member of the country.
+faction.enemy.reason.desc.tpkill=Murder after a teleportation. (7 days)
+faction.enemy.reason.desc.independence=Country that has regained its independence by force from its colonial empire. (7 days)
+faction.enemy.reason.desc.colony_refusal=Countries that refused the colony request of an empire. (7 days)
+faction.enemy.reason.desc.colony_protection=Country being enemy with a country colonised by an empire.
+faction.enemy.reason.desc.buffer_country=A country that has used another "buffer" country to wage war.
+faction.enemy.reason.desc.under_power=Countries with less power than claims (under-power), validation if still under-powered 48 hours later.
+faction.enemy.reason.desc.reprisal=Reprisal following an assault. Only the defending country can target the countries that helped the attacking country. (3 hours)
+faction.enemy.reason.desc.follow_war=Reason of war towards a country that has hosted a player targeted by a previously valid reason of war.
+faction.enemy.reason.desc.500mmr=War between two countries with more than 500 MMR.
+faction.enemy.reason.desc.empire=War between two countries with "Empire" status.
+faction.enemy.reason.desc.war_revenge=Valid reason for war after defeat in a previous war. (2 days)
+faction.enemy.reason.desc.bombing_asssistance=A country that has supplied missiles to an opposing country during a war.
+faction.enemy.reason.desc.treaty=War from a war treaty written on the forum.
+faction.enemy.reason.desc.colony_steal=Empire that has colonised a country on which a request for a colony was pending.
+
+faction.enemy.status.all=All
+faction.enemy.status.waiting_validation=§7Wait. validation
+faction.enemy.status.refused=§4Refused
+faction.enemy.status.waiting_conditions_att=§6[Att] Conditions
+faction.enemy.status.waiting_conditions_def=§6[Def] Conditions
+faction.enemy.status.waiting_conditions_att_second=§6[Att] Re-Conditions
+faction.enemy.status.in_progress=§aIn progress
+faction.enemy.status.finished=§2Finished
+faction.enemy.status.cancelled=§4Cancelled
+
+faction.enemy.status.waiting_validation.att=§2Accepted
+faction.enemy.status.refused.att=§2Accepted
+faction.enemy.status.waiting_conditions_att.att=§7Att. conditions
+faction.enemy.status.waiting_conditions_def.att=§2Conditions sent
+faction.enemy.status.waiting_conditions_att_second.att=§7Att. conditions
+faction.enemy.status.cancelled.att=§4Cancelled
+
+faction.enemy.status.waiting_validation.def=§7Att. validation
+faction.enemy.status.refused.def=§4Refused
+faction.enemy.status.waiting_conditions_att.def=§7Att. conditions
+faction.enemy.status.waiting_conditions_def.def=§7Att. conditions
+faction.enemy.status.waiting_conditions_att_second.def=§2Conditions sent
+faction.enemy.status.cancelled.def=§4Cancelled
+
+faction.enemy.requests.title=War requests
+faction.enemy.requests.see=See
+
+faction.wars.button.requests=War requests
+
+faction.enemy.status.details.waiting_validation=The request is pending acceptance by the staff. Once validated, both countries will have to define conditions and rewards in case of victory.
+faction.enemy.status.details.refused=The request was refused by the defending country and by the staff who considered that it was not justified.
+faction.enemy.status.details.cancelled=The request has been cancelled by the attacking country or the server, this request is now terminated.
+faction.enemy.status.details.waiting_conditions_att=The request is validated, the attacking country must now define victory conditions and rewards. Then it will be the turn of the defending country to do the same.
+faction.enemy.status.details.waiting_conditions_def=The request is validated, the defending country must validate the conditions and rewards of victory or propose others.
+faction.enemy.status.details.waiting_conditions_att_second.def=The request is validated, the defending country has refused the conditions and sent a counter-proposal to be considered by the attacking country.
+faction.enemy.status.details.waiting_conditions_att_second.att=The defending country has refused the conditions and sent a counter-proposal which is on the right, you must accept it or let the server generate random conditions.
+faction.enemy.status.details.special.under_power=The war request is pending, it will be automatically validated if the defending country is still in sub-power 48 hours after the creation of this request.
+
+faction.enemy.tooltip.inactivity=Percentage of inactivity in the country, if it reaches 100%##the country is declared a loser in the war##and the rewards are applied.####§7Inactivity rises by 3% on each day that the time is##§7of the players has not been sufficient to allow##§7the other country to launch an assault.##§7On the contrary, it falls when the country is active.
+faction.enemy.tooltip.conditions=Conditions for winning the war, the first country to##validates them wins the war and the awards.####§6Mode AND##§7All conditions must be validated####§cMode OR##§7One of the conditions must be validated
+faction.enemy.tooltip.rewards=Rewards given to the winner of the war.####§6Claims##§7The country that wins them can overclaim the other country##§7without being underpowered and this X times the number of claims won.####§6Power##§7The country that wins the power steals it from the loser, the power##§7is gradually returned to the other country within 7 days.####§6Dollars##§7The money is taken from the bank of the losing country and##§7its members to be given to the country that won the war.####§6Colonisation##§7The losing country becomes a colony,##§7in condition that it is not an empire.####§6Non-war##§7At the end of the war, the two countries will not be able to##§7declare war on each other for the time indicated (in days)
+faction.enemy.tooltip.surrender_delay=§cImpossible to give up as long as the enemy##§capproval is less than 7 days old
+faction.enemy.tooltip.reason=Target player: §e#target#
+
+faction.enemy.agreement.title=War agreements
+faction.enemy.agreement.create.title=New agreement
+faction.enemy.agreement.status.all=All agreements
+faction.enemy.agreement.status.waiting=§3Wait. signature
+faction.enemy.agreement.status.refused=§cAgreements refused
+faction.enemy.agreement.status.expired=§7Agreements expired
+faction.enemy.agreement.status.active=§aAgreements actives
+faction.enemy.agreement.status.short.active=§aActive
+faction.enemy.agreement.status.short.waiting=§3Wait signature
+faction.enemy.agreement.status.short.refused=§cRefused
+faction.enemy.agreement.status.short.expired=§7Expired
+faction.enemy.agreement.type.peace=Peace treaty
+faction.enemy.agreement.type.no_assault=Non-war
+faction.enemy.agreement.type.no_missile=Non-missile
+
+faction.enemy.agreement.type.desc.peace=§6Peace treaty####At the end of the war, both countries are put in §eNEUTRAL##and a non-war period of §eX days §fis applied.
+faction.enemy.agreement.type.desc.no_assault=§6Non-war####Period during which the two countries cannot##launch assaults, the war is put on hold.
+faction.enemy.agreement.type.desc.no_missile=§6Non-missile####Period during which both countries##can no longer send a missile to each other.
+
+faction.enemy.agreement.send_date=On
+faction.enemy.agreement.see=See
+faction.enemy.agreement.back=List
+faction.enemy.agreement.conditions=Counterparts
+faction.enemy.agreement.conditions.tooltip=§7Counterparts are §cinflicted##§7to the country associated with them.##§7These are applied to the §eto the signature##§7of the agreement by the other country.
+faction.enemy.agreement.new_condition=New counterpart
+faction.enemy.agreement.duration=Durat. (d)
+faction.enemy.agreement.end=End
+faction.enemy.agreement.value=Value
+faction.enemy.agreement.status=Status
+faction.enemy.agreement.conditions.dollars=Dollars
+faction.enemy.agreement.conditions.power=Power
+faction.enemy.agreement.conditions.claims=Claims
+faction.enemy.agreement.create=Create a new
+faction.enemy.agreement.accept=Accept
+faction.enemy.agreement.cancel=Cancel the agreement
+faction.enemy.agreement.refuse=Refuse
+faction.enemy.agreement.gives=gives
+faction.enemy.agreement.submit=Send agreement
+
+faction.level.title=Level
+faction.level.palier=Stage
+faction.level.actual=Actual
+faction.level.next=Next
+faction.level.actual_level=Actual level
+faction.level.actual_advantages=Unlocked benefits
+faction.level.next_advantages=Next stage benefits
+
+faction.level.label.empire=Become Empire
+faction.level.label.members=Number of Members
+faction.level.label.relations=Number of Relationships (Ally + Truce)
+faction.level.label.chest=Slots country chest
+faction.level.label.warps=Number of country warp
+faction.level.label.missiles=Bonus missile points
+faction.level.label.colonies=Number of colonies
+faction.level.label.true=§aYes
+faction.level.label.false=§cNo
+faction.level.label.inf=No limit
+
+rotten.date=§cExpiration Date : §b
+rotten.date.format=MM/dd
+
+cereal.wheat=Wheat
+cereal.barley=Barley
+cereal.sunflower=Sunflower
+cereal.soybean=Soybean
+cereal.oats=Oats
+cereal.corn=Corn
+cereal.rye=Rye
+cereal.kamut=Kamut
+cereal.sorgho=Sorgho
+cereal.fonio=Fonio
+
+globalmarket.title=§6Global Market
+globalmarket.chart.prices=Prices for the last 7 days
+globalmarket.chart.sales=Purchases in the last 7 days
+globalmarket.chart.stocks=Stocks over the last 7 days
+globalmarket.label.prices=Prices
+globalmarket.label.sales=Sales
+globalmarket.label.stocks=Stocks
+
+item.rottenfood.name=§cExpired food
+
+ghost.title=§6Ghosts
+ghost.subtitle=Shop
+ghost.rules=Welcome ghost hunter! You have collected a total of §6%s souls§f, congratulations! You can now exchange them for awesome rewards.
+ghost.rulesbutton=Rules
+ghost.ranks=Ranking
+ghost.buy=Buy
+
+item.hat=Hat : %s
+item.badge=Badge : %s
+item.hat.rarety.common=§7Common Cosmetic
+item.hat.rarety.rare=§cRare Cosmetic
+item.hat.rarety.epic=§5Epic Cosmetic
+item.hat.rarety.legendary=§bLegendary Cosmetic
+item.hat.help=§7Sneak + Right click to store
+
+ghost.buy.failed=You cannot buy this item
+ghost.buy.success=Purchase made with success!
+ghost.buy.hatOwned=You have already this hat
+ghost.buy.badgeOwned=You have already this badge
+
+screen.uploader.cooldown=§cPlease wait %s seconds before you're next screenshot uploading
+screen.uploader.uploaded=§aScreenshot uploaded: §2%s
+screen.uploader.error=§cError during screen uploading: %s
+screen.uploader.http_error=§cError during http request
+screen.uploader.error.not.valid.base64=Invalid Base64
+screen.uploader.error.not.valid.image=Invalid Image
+screen.uploader.error.not.ngprime=You're not subscribed to NGPrime
+screen.uploader.error.token.not.found=You're not authentified
+
+screen.upload.title=§6Screenshot
+screen.upload.content=Would you like to host your image?
+screen.uploader.allow=Yes
+screen.uploader.deny=No
+
+nationsgui.assistance.createTicketText=Do you have a question or problem with the game ?
+nationsgui.assistance.createTicket=Create a ticket
+
+nationsgui.assistance.supportSiteText=For a technical problem, a complaint following a sanction or a shop problem, contact us on the site support.
+nationsgui.assistance.supportSite=Site support
+
+nationsgui.assistance.title=Assistance
+nationsgui.assistance.closedticket=§4[Closed]§r %s
+nationsgui.assistance.openticket=§2[Open]§r %s
+nationsgui.assistance.ticketDate=dd/MM 'à' HH'h'mm
+nationsgui.assistance.responses=Replies (%s)
+nationsgui.assistance.mytickets=My tickets
+nationsgui.assistance.reply=Reply
+nationsgui.assistance.replytitle=Reply
+nationsgui.assistance.sendreply=Send Reply
+nationsgui.assistance.sendTicket=Send Ticket
+nationsgui.assistance.takeScreenshot=Take a screenshot
+nationsgui.assistance.categoryDropdown=Category
+nationsgui.assistance.openTicketStat=%s §2Tickets open
+nationsgui.assistance.closedTicketStat=%s §4Tickets closed
+nationsgui.assistance.statsTitle=Statistics
+nationsgui.assistance.staffTopTitle=Top Staff 7 days
+nationsgui.assistance.open=Open
+nationsgui.assistance.closed=Closed
+nationsgui.assistance.teleport=Teleport
+nationsgui.assistance.close=Close
+nationsgui.assistance.notickets=No ticket opened
+
+assistance.category.general=General question
+assistance.category.bug=Bug report
+assistance.category.rp=RP problem
+assistance.category.sanction=Problem of sanction
+auctions.title=Auctions
+auctions.sell.price=Starting Price :
+auctions.sell.quantity=Quantity :
+auctions.sell.time=Time (in hours) :
+auctions.ad=Advert
+auctions.sell.toHDV=To Market
+auctions.sell.action=Start Auction
+auctions.sell.taxes=Taxes : %s $
+auctions.lastBidder=Top bidder: %s
+auctions.noBidder=No bidder
+auctions.isLastBidder=You are the top bidder
+auctions.isCreator=§cYou are the seller
+auctions.bid=Send bid
+auctions.mysales=My auctions
+auctions.othersales=Other auctions
+auctions.unavailable=No auction found
+
+options.displayFurnitures=Display Furnitures
+options.customArmor=Display Special Armors
+
+tvg.title=SELECT A STREAMER
+tvg.subtitle=TO WHOM WILL YOU MAKE A DONATION?
+tvg.stats=My stats
+tvg.bestTime=Best time
+tvg.position=Position
+tvg.valid=Validate
+tvg.select=Select a streamer
+tvg.unknow1=No streamer
+tvg.unknow2=associated
+
+options.displayEmotes=Display Emotes
+gui.option.restartRequired=Restarting game may be required to apply changes
+
+main.news=§6NEWS
+main.shortcuts=§6SHORTCUTS
+main.store=§6STORE
+main.servers=§6SERVERS
+main.players=§bPlayers
+main.play=§6Play
+main.discover=§6Discover
+
+main.hub.title=THE HUB
+main.hub.subtitle1=SERVER ACCESS
+main.hub.subtitle2=MEETING POINT
+
+main.hub.description1=The HUB provides access to all
+main.hub.description2=NationsGlory servers,
+main.hub.description3=it is also a meeting place!
+
+main.mine.title=THE MINE
+main.mine.subtitle1=MINING SERVER
+main.mine.subtitle2=100% SECURE
+
+main.mine.description1=The Mine allows you to farm all the
+main.mine.description2=ores in complete safety and then
+main.mine.description3=to retrieve it from its server
+
+main.island.title=NG ISLAND
+main.island.subtitle1=FREEBUILD
+main.island.subtitle2=CREATIVE MODE
+
+main.island.description1=NG'Islands is a Freebuild server
+main.island.description2=where all the content of NationsGlory
+main.island.description3=is available in creative mode
+
+main.ngprime.title=NG PRIME
+main.ngprime.subtitle1=Unlock exclusive cosmetics, customize your
+main.ngprime.subtitle2=gaming experience and stand out from the crowd !
+main.ngprime.subtitle3=Available for subscription and direct purchase

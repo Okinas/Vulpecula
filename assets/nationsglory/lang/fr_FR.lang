@@ -1,0 +1,243 @@
+﻿#CREATIVE TABS
+
+itemGroup.nations_glory_blocs_tab=Blocs NationsGlory
+itemGroup.nations_glory_items_tab=Items NationsGlory
+itemGroup.nations_glory_1.8_tab=Blocs et items 1.8
+itemGroup.nations_glory_chinese_tab=Blocs et items Pâques 2015
+itemGroup.nations_glory_mini-games_tab=Mini-jeux NationsGlory
+
+#ENTITY
+
+entity.rabbit.name=Lapin
+
+#BLOCKS
+
+tile.slate.name=Ardoise
+
+tile.cobblestone_road.name=Route de pierres
+
+tile.lamp.name=Lampe
+
+tile.steel.name=Bloc d'acier
+
+tile.sea_lantern.name=Lanterne aquatique
+
+tile.packed_ice.name=Glace compacte
+
+tile.iron_trap_door.name=Trappe en fer
+
+tile.prismarine.name=Prismarine
+tile.prismarine_rough.name=Prismarine taillée
+tile.dark_prismarine.name=Prismarine sombre
+
+tile.diorite.name=Diorite
+tile.andesite.name=Andésite
+tile.granite.name=Granite
+
+tile.polished_diorite.name=Diorite polie
+tile.polished_andesite.name=Andésite polie
+tile.polished_granite.name=Granite poli
+
+tile.redsand.name=Sable rouge
+tile.redsandstone.name=Grès rouge
+tile.redsandstone_carved.name=Grès rouge sculpté
+tile.redsandstone_smooth.name=Grès rouge poli
+tile.redsandstone_top.name=Grès rouge craquelé
+
+tile.podzol.name=Podzol
+tile.podzol_full_block.name=Bloc de podzol
+
+tile.slime_block.name=Bloc de slime
+
+tile.allium.name=Allium
+tile.azure_bluet.name=Bleuet azur
+tile.blue_orchid.name=Orchidées bleues
+tile.orange_tulip.name=Tulipe orange
+tile.oxeye_daisy.name=Marguerite
+tile.pink_tulip.name=Tulipe rose
+tile.poppy.name=Coquelicot
+tile.red_tulip.name=Tulipe rouge
+tile.white_tulip.name=Tulipe blanche
+
+tile.invisible_block.name=Bloc invisible
+tile.invisible_light_block.name=Bloc invisible lumineux
+tile.invisible_light_block_traversable.name=Bloc invisible lumineux traversable
+
+tile.iron_fence.name=Barrière en fer
+tile.obsidian_fence.name=Barrière en obsidienne
+tile.spruce_fence.name=Barrière en sapin
+tile.birch_fence.name=Barrière en bouleau
+tile.dark_oak_fence.name=Barrière en chêne noir
+tile.jungle_fence.name=Barrière en acajou
+tile.acacia_fence.name=Barrière en acacia
+
+tile.iron_fence_gate.name=Portillon en fer
+tile.obsidian_fence_gate.name=Portillon en obsidienne
+tile.spruce_fence_gate.name=Portillon en sapin
+tile.birch_fence_gate.name=Portillon en bouleau
+tile.dark_oak_fence_gate.name=Portillon en Chêne noir
+tile.jungle_fence_gate.name=Portillon en acajou
+tile.acacia_fence_gate.name=Portillon en acacia
+
+tile.slab_iron.name=Dalle en fer
+tile.slab_obsidian.name=Dalle en obsidienne
+tile.slab_redsand.name=Dalle en sable rouge
+tile.slab_dark_oak.name=Dalle en chêne noir
+tile.slab_slate.name=Dalle en ardoise
+tile.slab_acacia.name=Dalle en acacia
+tile.slab_new_brick.name=Dalle en brique
+
+tile.iron_stairs.name=Escaliers en fer
+tile.obsidian_stairs.name=Escaliers en obsidienne
+tile.slate_stairs.name=Escaliers en ardoise
+tile.red_stairs.name=Escaliers en grès rouge
+tile.dark_oak_stairs.name=Escaliers en chêne noir
+tile.acacia_stairs.name=Escaliers en acacia
+tile.new_brick_stairs.name=Escaliers en brique
+tile.new_brick_mossy_stairs.name=Escaliers en brique moussue
+tile.new_brick_mossy_stairs_2.name=Escaliers en brique moussue
+
+tile.new_brick_block.name=Brique
+tile.mossy_brick.name=Brique moussue
+tile.mossy_brick_2.name=Brique moussue
+
+tile.steel_structure.name=Structure en acier
+tile.oak_structure.name=Structure en bois
+
+tile.trophy_1.name=Trophée en or
+tile.trophy_2.name=Trophée en fer
+tile.trophy_3.name=Trophée en diamant
+
+tile.japanese_leaves.name=Feuilles japonaises
+
+tile.acacia_planks.name=Planches en acacia
+tile.dark_oak_planks.name=Planches en chêne noir
+
+tile.acacia_log.name=Bûche d'acacia
+tile.dark_oak_log.name=Bûche de chêne noir
+
+tile.halloween_chest.name=Coffre d'Halloween
+tile.japanese_lampion.name=Lampion japonais
+tile.easter_statue.name=Statue de l'île de Pâques
+tile.japanese_lantern.on_ground.name=Lampion japonais
+tile.japanese_lantern.on_ceilling.name=Lampion japonais
+tile.tiki_lantern.name=Lanterne Tiki
+tile.bonsai.name=Bonsaï
+
+tile.mario_blocks.name=Bloc de Mario
+
+tile.greySmoke.name=Fumée blanche
+tile.whiteSmoke.name=Fumée grise
+
+tile.skull.name=Crâne
+tile.skull_spike.name=Crâne sur pique
+
+tile.oak_wall.name=Barrière en bûche de chêne
+tile.birch_wall.name=Barrière en bûche de bouleau
+tile.spruce_wall.name=Barrière en bûche de sapin
+tile.jungle_wall.name=Barrière en bûche d'acajou
+tile.dark_oak_wall.name=Barrière en bûche de chêne noir
+tile.acacia_wall.name=Barrière en bûche d'acacia
+
+tile.disco_block.name=Piste de dance
+
+#ITEMS
+
+item.nationsglory_seeds.name=Graine
+item.prismarin_cristal.name=Cristaux de prismarine
+item.prismarin_shard.name=Éclats de prismarine
+item.rabbit_hide.name=Peau de lapin
+item.rabbit_foot.name=Patte de lapin
+item.clown_fish.name=Poisson-clown
+item.puffer_fish.name=Poisson-globe
+
+item.beer.name=Bière
+item.beer_choppe.name=Choppe
+item.can.name=Canette
+item.energy_drink.name=Boisson énergisante
+item.french_fries.name=Frites belges
+item.white_candy.name=Bonbon blanc
+item.blue_candy.name=Bonbon bleu
+item.yellow_candy.name=Bonbon jaune
+item.black_candy.name=Bonbon noir
+item.orange_candy.name=Bonbon orange
+item.pink_candy.name=Bonbon rose
+item.sucette.name=Sucette
+item.espion_drink.name=Boisson de l'espion
+item.construct_drink.name=Boisson du constructeur
+item.raw_rabbit.name=Lapin cru
+item.cooked_rabbit.name=Lapin cuit
+item.raw_mutton.name=Mouton cru
+item.cooked_mutton.name=Mouton cuit
+item.raw_salmon.name=Saumon cru
+item.cooked_salmon.name=Saumon cuit
+
+item.fire_sword.name=§6Épée du feu
+item.ultime_hammer.name=Marteau ultime
+item.blaze_sword.name=Épée brasier
+item.dark_repulser.name=Dark Repulser
+item.liberator.name=Liberator
+item.tyran_dragon_sword.name=Tyran Dragon
+item.demonic_sword.name=§dÉpée Démonique
+item.master_sword.name=Épée de Légende
+item.aether_sword.name=Aether Sword
+item.elucidator_sword.name=Elucidator Sword
+item.infinity_sword.name=Infinity Sword
+item.glass_sword.name=Glass Sword
+item.aiguille_sword.name=Aiguille
+
+item.hellstone_boots.name=Bottes en Hellstone
+item.hellstone_leggings.name=Jambières en Hellstone
+item.hellstone_chestplate.name=Plastron en Hellstone
+item.hellstone_helmet.name=Casque en Hellstone
+
+item.dark_knight_boots.name=Bottes du Chevalier Noir
+item.dark_knight_leggings.name=Jambières du Chevalier Noir
+item.dark_knight_chestplate.name=Plastron du Chevalier Noir
+item.dark_knight_helmet.name=Casque du Chevalier Noir
+
+item.netherrite_boots.name=Bottes en Netherrite
+item.netherrite_leggings.name=Jambières en Netherrite
+item.netherrite_chestplate.name=Plastron en Netherrite
+item.netherrite_helmet.name=Casque en Netherrite
+
+item.templar_knight_boots.name=Bottes de Templier
+item.templar_knight_leggings.name=Jambières de Templier
+item.templar_knight_chestplate.name=Plastron de Templier
+item.templar_knight_helmet.name=Casque de Templier
+
+item.demonic_boots.name=Bottes Démoniques
+item.demonic_leggings.name=Jambières Démoniques
+item.demonic_chestplate.name=Plastron Démonique
+item.demonic_helmet.name=Casque Démonique
+
+item.cops_boots.name=Chaussures de policier
+item.cops_leggings.name=Pantalon de policier
+item.cops_chestplate.name=Veste de policier
+item.cops_helmet.name=Casquette de policier
+
+item.prisoner_boots.name=Chaussures de prisonnier
+item.prisoner_leggings.name=Pantalon de prisonnier
+item.prisoner_chestplate.name=Chemise de prisonnier
+item.prisoner_helmet.name=Casquette de prisonnier
+
+item.crs_boots.name=Rangers de CRS
+item.crs_leggings.name=Pantalon de CRS
+item.crs_chestplate.name=Kevlar de CRS
+item.crs_helmet.name=Casque de CRS
+
+item.mithril_boots.name=Bottes en mithril blanc
+item.mithril_leggings.name=Jambières en mithril blanc
+item.mithril_chestplate.name=Plastron en mithril blanc
+item.mithril_helmet.name=Casque en mithril blanc
+
+item.acacia_door.name=Porte en acacia
+item.dark_door.name=Porte en chêne noir
+item.jungle_door.name=Porte en acajou
+item.spruce_door.name=Porte en sapin
+item.birch_door.name=Porte en bouleau
+
+item.rabbit_boots.name=Bottes en peau de lapin
+item.rabbit_leggings.name=Pantalon en peau de lapin
+item.rabbit_chestplate.name=Veste en peau de lapin
+item.rabbit_helmet.name=Chapeau en peau de lapin

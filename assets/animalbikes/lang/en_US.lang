@@ -1,0 +1,32 @@
+itemGroup.animalbikes=AnimalBikes
+itemGroup.animalbikesmisc=AnimalBikes Misc
+
+item.rawhide.name=Rawhide
+item.pigbike.name=§dPig Bike
+item.cowbike.name=§7Cow Bike
+item.spiderbike.name=§7Spider Bike
+item.sheepbike.name=§fSheep Bike
+item.chickenbike.name=§fChicken Bike
+item.wolfbike.name=§7Wolf Bike
+item.squidbike.name=§9Squid Bike
+item.creeperbike.name=§2Creeper Bike
+item.ponybike.name=§dPony Bike
+item.enderbike.name=§5Ender Bike
+item.dragonbike.name=§5Dragon Bike
+item.notchbike.name=§6Notch Bike
+item.reindeerbike.name=§cReindeer Bike
+item.snowgolembike.name=§fSnowgolem Bike
+item.ghastbike.name=§fGhast Bike
+item.irongolembike.name=§fIrongolem Bike
+item.bunnybike.name=§1Bunny Bike
+item.fossil.name=Fossil
+item.dinobike.name=Dino Bike
+item.chocobobike.name=§6Chocobo Bike
+item.silverfishbike.name=§7Silverfish Bike
+item.batbike.name=§8Bat Bike
+item.chinesedragonbike.name=§6Chinese Dragon Bike
+item.slimebike.name=§2Slime Bike
+item.ocelotbike.name=§eOcelot Bike
+item.pumpkinnotchbike.name=§6NationsWeen Bike
+
+entity.NotchBike.name=Notch

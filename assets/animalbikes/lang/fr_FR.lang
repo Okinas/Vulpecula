@@ -1,0 +1,32 @@
+itemGroup.animalbikes=AnimalBikes
+itemGroup.animalbikesmisc=AnimalBikes Divers
+
+item.rawhide.name=Cuir brut
+item.pigbike.name=§dMonture de cochon
+item.cowbike.name=§7Monture de vache
+item.spiderbike.name=§7Monture d'araignée
+item.sheepbike.name=§fMonture de mouton
+item.chickenbike.name=§fMonture de poulet
+item.wolfbike.name=§7Monture de loup
+item.squidbike.name=§9Monture de poulpe
+item.creeperbike.name=§2Monture de creeper
+item.ponybike.name=§dMonture de poney
+item.enderbike.name=§5Monture d'enderman
+item.dragonbike.name=§5Monture d'enderdragon
+item.notchbike.name=§6Monture de Notch
+item.reindeerbike.name=§cMonture de renne
+item.snowgolembike.name=§cMonture de golem des neiges
+item.ghastbike.name=§fMonture de ghast
+item.irongolembike.name=§fMonture de golem de fer
+item.bunnybike.name=§1Monture de lapin
+item.fossil.name=Fossile
+item.dinobike.name=Monture de dinosaure
+item.chocobobike.name=§6Monture de chocobo
+item.silverfishbike.name=§7Monture de silverfish
+item.batbike.name=§8Monture de chauve-souris
+item.chinesedragonbike.name=§6Monture de dragon chinois
+item.slimebike.name=§2Monture de slime
+item.ocelotbike.name=§eMonture d'ocelot
+item.pumpkinnotchbike.name=§6Monture de citrouille
+
+entity.NotchBike.name=Notch

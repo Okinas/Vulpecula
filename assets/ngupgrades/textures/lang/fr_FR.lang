@@ -1,0 +1,60 @@
+tile.magma.name=Bloc de magma
+entity.dolphin.name=Dauphin
+entity.drowned.name=Zombie Noyé
+entity.salmon.name=Saumon
+entity.cod.name=Morue
+entity.pufferfish.name=Poisson Globe
+entity.tropicalfish.name=Poisson Tropical
+entity.turtle.name=Tortue
+item.cod.name=Morue
+item.cooked_cod.name=Morue cuite
+item.salmon.name=Saumon
+item.cooked_salmon.name=Saumon Cuit
+item.tropical_fish.name=Poisson Tropical
+item.pufferfish.name=Poisson Globe
+tile.seagrass.name=Herbe aquatique
+tile.kelp.name=Algue
+tile.dried_kelp_block.name=Bloc d'algue sechée
+item.dried_kelp.name=Algue sechée
+
+tile.tube_coral.name=Corail tubulaire
+tile.tube_coral_block.name=Bloc de corail tubulaire
+tile.tube_coral_fan.name=Gorgone de corail tubulaire
+tile.dead_tube_coral.name=Corail tubulaire mort
+tile.dead_tube_coral_block.name=Bloc de corail tubulaire mort
+tile.dead_tube_coral_fan.name=Gorgone de corail tubulaire morte
+
+tile.brain_coral.name=Corail cerveau
+tile.brain_coral_block.name=Bloc de corail cerveau
+tile.brain_coral_fan.name=Gorgone de corail cerveau
+tile.dead_brain_coral.name=Corail cerveau mort
+tile.dead_brain_coral_block.name=Bloc de corail cerveau mort
+tile.dead_brain_coral_fan.name=Gorgone de corail cerveau morte
+
+tile.bubble_coral.name=Corail bulles
+tile.bubble_coral_block.name=Bloc de corail bulles
+tile.bubble_coral_fan.name=Gorgone de corail bulles
+tile.dead_bubble_coral.name=Corail bulles mort
+tile.dead_bubble_coral_block.name=Bloc de corail bulles mort
+tile.dead_bubble_coral_fan.name=Gorgone de corail bulles morte
+
+tile.fire_coral.name=Corail de feu
+tile.fire_coral_block.name=Bloc de corail de feu
+tile.fire_coral_fan.name=Gorgone de corail de feu
+tile.dead_fire_coral.name=Corail de feu mort
+tile.dead_fire_coral_block.name=Bloc de corail de feu mort
+tile.dead_fire_coral_fan.name=Gorgone de corail de feu morte
+
+tile.horn_coral.name=Corail corné
+tile.horn_coral_block.name=Bloc de corail corné
+tile.horn_coral_fan.name=Gorgone de corail corné
+tile.dead_horn_coral.name=Corail corné mort
+tile.dead_horn_coral_block.name=Bloc de corail corné mort
+tile.dead_horn_coral_fan.name=Gorgone de corail corné morte
+
+entity.creeperfish.name=Poison Creeper
+tile.sandoil.name=Pétrole fossilisé
+tile.bubble_tree.name=Plante à bulles
+item.magmarock.name=Pierre de magma
+tile.volcanic_stone.name=Pierre de magma
+spawn.megalodon=Un Megalodon est apparu aux coordonnées (%d;%d;%d)
