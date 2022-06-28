@@ -2,5 +2,5 @@ connecting.queue=%s players before you
 waitqueue.bottom=§lHurry?§r Discover our ranks to get priority access to our servers !
 waitqueue.center=Oops, this server is full, you are in waiting queue.
 waitqueue.shop=Shop
-waitqueue.exit=Leave waiting queue
+waitqueue.exit=§cLeave waiting queue
 connecting.queuefirst=You are first in waiting queue.

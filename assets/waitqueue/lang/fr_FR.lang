@@ -2,5 +2,5 @@ connecting.queue=Il y a %s joueurs devant vous...
 waitqueue.bottom=§lPressé ?§r Découvrez nos grades et obtenez un accès prioritaire à nos serveurs !
 waitqueue.center=Oups, le serveur est complet ! Vous êtes dans la file d'attente.
 waitqueue.shop=Visiter la boutique
-waitqueue.exit=Quitter la file d'attente
+waitqueue.exit=§cQuitter la file d'attente
 connecting.queuefirst=Vous êtes premier sur la file d'attente.
