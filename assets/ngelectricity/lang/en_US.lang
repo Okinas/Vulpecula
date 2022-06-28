@@ -1,0 +1,218 @@
+tile.incinerator_machine.name=Incinerator
+tile.fuel_generator_machine.name=Power Generator
+tile.meter_machine.name=Electric Meter
+tile.incubator_machine.name=Incubator
+tile.alarm_machine.name=Alarm
+tile.missile_alarm_machine.name=Missile Alarm
+tile.switch_machine.name=Switch
+tile.erepair_machine.name=Repair Machine
+tile.ecotron_machine.name=Ecotron
+tile.crusher_machine.name=Crusher
+tile.pump_machine.name=Pump
+tile.medieval_light_off.name=Medieval lamp
+tile.modern_light_off.name=Modern lamp
+tile.medieval_light_on.name=Medieval lamp
+tile.modern_light_on.name=Modern lamp
+tile.converter_machine.name=Converter
+tile.roller_slab.name=Roller
+tile.roller_block.name=Roller
+tile.roller_transmitter.name=Roller support
+tile.upgrade_assembler_machine.name=Circuit assembler
+tile.ocean_collector_machine.name=Ocean collector
+tile.oil_pump_machine.name=Oil Pump
+tile.fishfeeder_machine.name=Fish incubator
+tile.potions_machine.name=Potions Machine
+tile.printer_machine.name=Printer
+tile.trader_machine.name=Server
+tile.dice_machine.name=Dice
+tile.random_machine.name=Random machine
+tile.cogs_assembler_machine.name=Gears assembler
+tile.petrolpumpjack_machine.name=Pumpjack
+tile.petroltank_machine.name=Liquid tank
+tile.petrolrefinery_machine.name=Refinery
+tile.fuelpump_machine.name=Fuel pump
+tile.fuelloader_machine.name=Fuel loader
+tile.fuelgenerator_machine.name=Fuel generator
+tile.liquid_switch_machine.name=Electrovalve
+tile.electric_collector_machine.name=Elec. collector
+tile.electric_generator_machine.name=Elec. meter
+tile.petrolrubber_machine.name=Rubber machine
+tile.bread_machine.name=Bread machine
+tile.flour_machine.name=Flour machine
+tile.ogm_machine.name=GMO machine
+
+tile.barbed_wire.name=Barbed wire
+
+tile.wire_wood_camo.name=Camo wire
+tile.wire_wood_camo_heavy.name=Reinforced camo wire
+tile.wire_modern.name=Modern wire
+tile.wire_modern_heavy.name=Reinforced modern wire
+tile.wire_factory.name=Factory wire
+tile.wire_factory_heavy.name=Reinforced factory wire
+tile.wire_futuristic.name=Futuristic wire
+tile.wire_futuristic_heavy.name=Reinforced futuristic wire
+tile.wire_birch_camo.name=Light camo wire
+tile.wire_birch_camo_heavy.name=Reinforced light camo wire
+tile.wire_aquatic.name=Submarine wire
+tile.wire_aquatic_heavy.name=Reinforced submarine wire
+tile.wire_sand.name=Sanded wire
+tile.wire_sand_heavy.name=Reinforced sanded wire
+tile.feeder_cereal.name=Cereal feeder
+tile.feeder_water.name=Water dispenser
+tile.bread_machine.name=Bread machine
+tile.flour_machine.name=Flour machine
+tile.ogm_machine.name=GMO Machine
+tile.silo_machine.name=Grain silo
+tile.biofuelgenerator_machine.name=Bio-generator
+tile.fridge.name=Refrigerator
+tile.power_charger_machine.name=Electric Power Charger
+tile.power_charger_machine.name.short=Power Charger
+tile.composter_machine.name=Composter
+tile.renovator_machine.name=Industrial Repairer
+
+meter.title=Electric Meter
+electric_generator.title=Electric Meter
+
+fluid_tank.title=Tank
+fluid_tank.subtitle.petrol=petrol
+fluid_tank.subtitle.fuel=fuel
+fluid_tank.label.fill=Fill
+fluid_tank.label.drain=Drain
+fluid_tank.label.buy=Buy fuel
+fluid_tank.label.sell=Sell fuel
+fluid_tank.error.not_petrol_enterprise=§cYou must work in a petrol company##§cin order to sell fuel
+fluid_tank.error.insufisant_fuel=§cThis tank does not contains enough fuel
+fluid_tank.error.too_much_fuel=§cMaximum tank capacity exceeded (2000L)
+fluid_tank.error.forbidden_petrol=§cThe tank must not contain petrol
+
+silo.title=Cereal Silo
+silo.label.buy=Buy cereals
+silo.label.sell=Sell cereals
+silo.error.not_farming_enterprise=§cYou must work in a farming company##§cin order to sell cereals
+silo.error.insufisant_cereal=§cThe silo does not contains enough cereals
+silo.error.too_much_cereal=§cMaximum silo capacity exceeded (5000 kg)
+silo.error.cereal_already_in_silo=§cThe silo must be empty to##§creceive another type of cereal.
+silo.info.get_cereal=§7Get a cereal stack
+silo.btn.globalmarket=Global market
+
+item.upgrade_item.name=Upgrade circuit
+item.upgrade_heat.name=Upgrade circuit
+item.upgrade_heat_redstone.name=Upgrade circuit
+item.upgrade_consumption.name=Upgrade circuit
+item.upgrade_production.name=Upgrade circuit
+item.upgrade_production_speed.name=Upgrade circuit
+item.upgrade_double_loot.name=Upgrade circuit
+item.meteorfragment_item.name=Meteor fragment
+item.meteor_item.name=Meteor
+item.ink_item.name=Ink cartridge
+item.alloyIngot_item.name=Alloy ingot
+
+item.cog_aluminium.name=§7Aluminium gear
+item.cog_copper.name=§6Copper gear
+item.cog_adamantium.name=§2Adamantium gear
+item.cog_desh.name=§8Desh gear
+item.cog_argonite.name=§5Argonite gear
+item.cog_mythril.name=§9Mythril gear
+item.cog_tin.name=§8Tin gear
+item.cog_malachite.name=§aMalachite gear
+item.cog_alloy.name=§3Alloy gear
+
+item.wrench_item.name=§6Repair wrench
+
+item.electricPickaxe.name=Electric Pickaxe
+item.electricUpgradedPickaxe.name=Advanced Electric Pickaxe
+item.electricAxe.name=Electric Axe
+item.electricUpgradedAxe.name=Advanced Electric Axe
+item.electricShovel.name=Electric Shovel
+item.electricUpgradedShovel.name=Advanced Electric Shovel
+
+item.rubber.name=Rubber
+
+tooltip.ocean_collector=§7Cette machine permet d'extraire##§7l'argile du fond de l'océan.##§7Il suffit d'alimenter la machine pour qu'elle##§7commence à creuser dans un rayon##§7de 5 blocs.
+tooltip.fishfeeder=§7Cette machine fait apparaître##§74 variétés de poisson.##§7Il suffit d'alimenter la machine et##§7de mettre des blocs de Kelp pour ##§7qu'elle commence à faire spawn des poissons.
+tooltip.pump=§7Cette machine permet de retirer l'eau##§7et d'en extraire du sel.##§7Il suffit d'alimenter la machine pour qu'elle retire l'eau.
+tooltip.oilpump=§7Cette machine permet d'extraire le pétrole##§7des blocs de pétrole fossilisés.##§7Il suffit de placer la machine au-dessus##§7d'une zone de pétrole sous-marine et##§7de l'alimenter pour qu'un tuyau se déploie##§7jusqu'au fond de l'eau pour en extraire le pétrole##§7et remplir la Canister placée dans la machine.
+tooltip.trader=§3Principle##§7This machine generates a crypto-money##§7that is automatically converted into dollars.##§7Only trading companies can use it##§7and its return depends on the total amount invested in the company.##§7##§6Operation##§7Alaways make sure that the value of the machine##§7is as close as possible to the value of the crypto-money (in §agreen§7)##§7##§9Calculation rule##§7In order to have §94% §7return, it is necessary to have a machine##§7for every §920.000$ invested in the company.##§7The machines must run at least §94h a day§7 and be well adjusted.
+tooltip.repair=§7This machine is used to manufacture##§7the gears necessary for the repair##§7of all electric machines.##§7##§eOnly the employees §7of a §erepair §7company can make and use them.##§f##§7To use them, simply put them##§7in its inventory and type a machine##§7with a repair key.##§7##§fCraft:##§7Each gear needs §21x Eco ingot §a+ §eone ingot ##§f##§7The repairability of the gear depends on the ore used:##§8Tin: §72 point##§6Copper: §72 point##§7Aluminium: §73 points##§9Mythril: §75 points##§5Argonite: §75 points##§aMalachite: §78 points##§3Alliage: §78 points##§2Adamantium: §712 points##§8Desh: §715 points
+tooltip.crusher=§7This machine is used to crush items##§7in order to extract resources.####§eArmour breaking##§7> Alloy ore §8(100%)####§eMeteor breaking##§7> Meteorite fragment §8(5%)####§eMissile breaking##§7> Thermal thruster §8(1%, 6%, 20%)##§7> Guiding device §8(1%, 6%, 20%)##§7> Kevlar §8(4%, 20%, 60%)##§7§oaccording to the missile tier (T1, T2, T3)
+
+
+tooltip.pumpjack=§7The pumpjack allows you to pump petrol##§7in the area where it is placed.##§7##§7The world is divided into several zones,##§7the zone is indicated in the interface.##§7The flow rate varies according to the state of the zone,##§7it varies from §60.6L/min §7to §62L/min.
+tooltip.fluid_tank=§7This tank allows you to store petrol##§7OR gasoline, its capacity is 2000 liters.##§7##§7You can §abuy §7gasoline from an oil company.##§7##§7With this tank you can sell gasoline##§7if you are part of an petrol company.
+tooltip.electric_collector=§7This machine allows to collect electricity##§7in order to store it in a##§6electricity supplier§7 company, only employees##§7of a company of this type can use it.##§7##§7The machine collects a power of §625 KW per second
+tooltip.electric_generator=§7This meter allows to buy electricity##§7to a specialized enterprise, the price is given in §6GW##§7and the amount to enter in §6MW§7 (1 GW = 1000 MW)##§7##§7The max power output is §6100 kW
+tooltip.silo=§7The price of grain depends on sales,##§7the more sales the more sales the lower the price,##§7the more purchases the higher the price.##§7The price also rises automatically##§7when there is no stock left.##§eThe sale of cereals is reserved##§efor agricultural companies
+tooltip.ogm_machine=§7This machine allows you to make GMO seeds##§7that allow you to make the best breads of the game.####§eThe recipes are secret§7, you have to try##§7different ingredients to get clues on##§7the right ingredients and proportions.##§7All boxes must be filled in and contain from 1 to 64 items, they are all different.####§eThe recipes change every 2000 seeds made.
+tooltip.fridge=§7The refrigerator preserves food and##§7prevent it to become expired food.##§7The refrigerator changes the expiry date##§7of food §eexpiring in less than 24 hours##§7and sets the expiry date to §eH+24§7.##§7As long as the machine is powered##§7the food inside will have an expiry##§7date of at least 24 hours.
+tooltip.upgrade_assembler=§7This machine allows you to##§7merge upgrade circuits.####§eOnly engineers of level 1 or higher##§ecan merge more than two circuits together.
+tooltip.power_charger=§7This machine is used to recharge##§7electrical items such as tools.
+
+item.cog.lore.reparability=Reparability
+item.wrench.lore=§eAllows to repair electrical machines##§7Left-click on a machine with "gear"##§7items in the inventory to repair.
+
+pumpjack.status.active=§aActive
+pumpjack.status.not_active=§cInactive
+pumpjack.status.state=Status:
+pumpjack.status.flow=Flow:
+pumpjack.status.area=Area:
+pumpjack.stock=Tank:
+pumpjack.reload=Next pumping:
+global.area.america_north=North America
+global.area.america_middle=Central America
+global.area.america_south=South America
+global.area.atlantic=Atlantic
+global.area.europe=Europe
+global.area.africa=Africa
+global.area.asia=Asia
+global.area.oceania=Oceania
+global.area.unknow=Unknow
+fuelgenerator.generate=Generating:
+electricgenerator.available=Available:
+fuelgenerator.generate=Produce:
+electricgenerator.buy=Buy
+electricgenerator.available=Available:
+electricgenerator.sell=Sell
+bread_machine.cook=Cook
+ogm_machine.craft=Craft
+
+tooltip.upgrade=§6Compatible circuits:
+
+generic.enterprise=Enterprise
+
+cereal.wheat=Wheat
+cereal.barley=Barley
+cereal.sunflower=Sunflower
+cereal.soybean=Soybean
+cereal.oats=Oats
+cereal.corn=Corn
+cereal.rye=Rye
+
+lore.custom_bread.barley=§e+4 saturation
+lore.custom_bread.veggie=§e+5 saturation
+lore.custom_bread.consistent=§e+6 saturation
+lore.custom_bread.protein=§e+4 saturation##§c+2 heal##§bHaste I (20s)
+lore.custom_bread.gre=§e+6 saturation##§c+3 heal##§bRegeneration I (10s)
+lore.custom_bread.bloody=§e+4 saturation##§bPower theft I (1min)####§7§oPower theft > Loses more power and steals it
+lore.custom_bread.golden=§e+6 saturation##§c+4 heal##§bAbsorption I (30s)##§bLast stand I (30s)####§7§oLast stand > Invulnerability to lethal damage
+lore.custom_bread.energy=§c+4 heal##§bStrength II (120s)##§bSpeed II (120s)##§bRegeneration II (30s)##§bAbsorption I (120s)##§bPower theft II####§7§oPower theft > Loses more power and steals it
+lore.custom_bread.ginger=§bHeals and Immunizes from##§bthe Contagion effect (120s)
+lore.custom_bread.tahde=§bIncreases the chances of finding obscure ores
+
+ogm.error.title=§cInvalid recipe
+ogm.error.quantity=§eQuantity between <min> and <max>
+ogm.error.too_much=§8Ingredient in too large a quantity
+ogm.error.not_enough=§8Missing ingredient or quantity too small
+ogm.error.result=§cSuccess rate: §7
+
+ogm.cannot_craft.already_result=§cThe GMO seed slot must be empty
+ogm.cannot_craft.all_ingredients=§cAll ingredient slots must be filled
+ogm.cannot_craft.energy=§cThe machine does not have enough electrical energy
+ogm.topResult=§6Server progress*: §e
+ogm.topResult.explanation=§6* §7§oBest result achieved by a player
+
+tooltip.electric_item.item.electricAxe=§bAllows to break the logs 2 by 2
+tooltip.electric_item.item.electricUpgradedAxe=§bAllows you to cut down a tree in one hit
+tooltip.electric_item.item.electricShovel=§bAllows you to lay and break areas of 3x3x1 (9 blocks)##§bWorks only with dirt, sand and gravel
+tooltip.electric_item.item.electricUpgradedShovel=§bAllows you to lay and break areas of 3x3x3 (27 blocks)##§bWorks only with dirt, sand and gravel
+tooltip.electric_item.item.electricPickaxe=§bAllows you to break areas of 3x3x1 (9 blocks)
+tooltip.electric_item.item.electricUpgradedPickaxe=§bAllows you to break areas of 3x3x3 (27 blocks)
