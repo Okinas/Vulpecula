@@ -1,0 +1,6 @@
+{
+  "parent": "ngupgrades:blocks/template_hanging_lantern",
+  "textures": {
+    "lantern": "ngupgrades:blocks/lantern"
+  }
+}
